@@ -1,0 +1,105 @@
+nohup: no se tendrá en cuenta la entrada
+Iniciando Optimización M=1 | Cond Inicial: 3.60
+------------------------------------------------------------
+Iter: 20 | Cond: 3.40 | Best: 3.40 | Status: 2/80
+Iter: 40 | Cond: 3.34 | Best: 3.34 | Status: 1/80
+Iter: 60 | Cond: 3.16 | Best: 3.14 | Status: 7/80
+Iter: 80 | Cond: 3.21 | Best: 3.14 | Status: 27/80
+Iter: 100 | Cond: 3.31 | Best: 3.14 | Status: 47/80
+Iter: 120 | Cond: 3.38 | Best: 3.14 | Status: 67/80
+>> Convergencia alcanzada en iteración 133.
+>> Gráfico M=1 exportado en: ./graphsnU/Opt_Mux_1.png
+Proceso M=1 finalizado. Condición final: 3.1385
+
+Iniciando Optimización M=2 | Cond Inicial: 5.30
+------------------------------------------------------------
+Iter: 20 | Cond: 5.23 | Best: 5.22 | Status: 3/80
+Iter: 40 | Cond: 5.39 | Best: 5.21 | Status: 14/80
+Iter: 60 | Cond: 5.08 | Best: 5.03 | Status: 7/80
+Iter: 80 | Cond: 4.96 | Best: 4.95 | Status: 4/80
+Iter: 100 | Cond: 4.90 | Best: 4.90 | Status: 0/80
+Iter: 120 | Cond: 4.82 | Best: 4.80 | Status: 8/80
+Iter: 140 | Cond: 4.89 | Best: 4.80 | Status: 28/80
+Iter: 160 | Cond: 4.90 | Best: 4.80 | Status: 48/80
+Iter: 180 | Cond: 4.91 | Best: 4.62 | Status: 19/80
+Iter: 200 | Cond: 4.85 | Best: 4.62 | Status: 39/80
+Iter: 220 | Cond: 4.99 | Best: 4.62 | Status: 59/80
+Iter: 240 | Cond: 5.04 | Best: 4.62 | Status: 79/80
+>> Convergencia alcanzada en iteración 241.
+>> Gráfico M=2 exportado en: ./graphsnU/Opt_Mux_2.png
+Proceso M=2 finalizado. Condición final: 4.6168
+
+Iniciando Optimización M=3 | Cond Inicial: 6.42
+------------------------------------------------------------
+Iter: 20 | Cond: 6.41 | Best: 6.34 | Status: 11/80
+Iter: 40 | Cond: 6.21 | Best: 6.04 | Status: 11/80
+Iter: 60 | Cond: 6.25 | Best: 6.04 | Status: 31/80
+Iter: 80 | Cond: 6.17 | Best: 6.04 | Status: 51/80
+Iter: 100 | Cond: 6.13 | Best: 6.04 | Status: 71/80
+>> Convergencia alcanzada en iteración 109.
+>> Gráfico M=3 exportado en: ./graphsnU/Opt_Mux_3.png
+Proceso M=3 finalizado. Condición final: 6.0448
+
+Iniciando Optimización M=4 | Cond Inicial: 7.96
+------------------------------------------------------------
+Iter: 20 | Cond: 7.94 | Best: 7.92 | Status: 3/80
+Iter: 40 | Cond: 8.14 | Best: 7.87 | Status: 19/80
+Iter: 60 | Cond: 8.02 | Best: 7.86 | Status: 11/80
+Iter: 80 | Cond: 7.78 | Best: 7.75 | Status: 2/80
+Iter: 100 | Cond: 7.90 | Best: 7.75 | Status: 22/80
+Iter: 120 | Cond: 8.22 | Best: 7.75 | Status: 42/80
+Iter: 140 | Cond: 8.04 | Best: 7.75 | Status: 62/80
+>> Convergencia alcanzada en iteración 158.
+>> Gráfico M=4 exportado en: ./graphsnU/Opt_Mux_4.png
+Proceso M=4 finalizado. Condición final: 7.7517
+
+Iniciando Optimización M=5 | Cond Inicial: 9.81
+------------------------------------------------------------
+Iter: 20 | Cond: 9.75 | Best: 9.75 | Status: 1/80
+Iter: 40 | Cond: 9.91 | Best: 9.75 | Status: 21/80
+Iter: 60 | Cond: 9.92 | Best: 9.75 | Status: 41/80
+Iter: 80 | Cond: 9.84 | Best: 9.75 | Status: 61/80
+>> Convergencia alcanzada en iteración 99.
+>> Gráfico M=5 exportado en: ./graphsnU/Opt_Mux_5.png
+Proceso M=5 finalizado. Condición final: 9.7548
+
+Iniciando Optimización M=6 | Cond Inicial: 11.60
+------------------------------------------------------------
+Iter: 20 | Cond: 11.78 | Best: 11.55 | Status: 14/80
+Iter: 40 | Cond: 11.75 | Best: 11.55 | Status: 34/80
+Iter: 60 | Cond: 11.75 | Best: 11.55 | Status: 54/80
+Iter: 80 | Cond: 11.78 | Best: 11.55 | Status: 74/80
+>> Convergencia alcanzada en iteración 86.
+>> Gráfico M=6 exportado en: ./graphsnU/Opt_Mux_6.png
+Proceso M=6 finalizado. Condición final: 11.5491
+
+Iniciando Optimización M=7 | Cond Inicial: 13.93
+------------------------------------------------------------
+Iter: 20 | Cond: 14.13 | Best: 13.93 | Status: 20/80
+Iter: 40 | Cond: 13.98 | Best: 13.93 | Status: 40/80
+Iter: 60 | Cond: 14.13 | Best: 13.93 | Status: 60/80
+Iter: 80 | Cond: 14.02 | Best: 13.93 | Status: 80/80
+>> Convergencia alcanzada en iteración 80.
+>> Gráfico M=7 exportado en: ./graphsnU/Opt_Mux_7.png
+Proceso M=7 finalizado. Condición final: 13.9327
+
+Iniciando Optimización M=8 | Cond Inicial: 16.12
+------------------------------------------------------------
+Iter: 20 | Cond: 16.20 | Best: 16.09 | Status: 12/80
+Iter: 40 | Cond: 16.48 | Best: 16.09 | Status: 32/80
+Iter: 60 | Cond: 16.15 | Best: 16.09 | Status: 52/80
+Iter: 80 | Cond: 16.16 | Best: 16.09 | Status: 72/80
+>> Convergencia alcanzada en iteración 88.
+>> Gráfico M=8 exportado en: ./graphsnU/Opt_Mux_8.png
+Proceso M=8 finalizado. Condición final: 16.0932
+
+Iniciando Optimización M=9 | Cond Inicial: 19.42
+------------------------------------------------------------
+Iter: 20 | Cond: 19.33 | Best: 19.33 | Status: 1/80
+Iter: 40 | Cond: 19.11 | Best: 19.08 | Status: 8/80
+Iter: 60 | Cond: 18.91 | Best: 18.89 | Status: 10/80
+Iter: 80 | Cond: 18.94 | Best: 18.71 | Status: 7/80
+Iter: 100 | Cond: 19.11 | Best: 18.71 | Status: 27/80
+Iter: 120 | Cond: 18.87 | Best: 18.71 | Status: 47/80
+Iter: 140 | Cond: 18.96 | Best: 18.71 | Status: 67/80
+>> Convergencia alcanzada en iteración 153.

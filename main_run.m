@@ -6,7 +6,7 @@ addpath(genpath('./utils'));
 % Parámetros base
 NF = 31;
 N = 31;
-mux_values = [2, 4]; % Puedes iterar sobre varios valores fácilmente
+mux_values = [1 : 16]; % Puedes iterar sobre varios valores fácilmente
 
 for M = mux_values
     [C_final, cond] = optimizeCodedAperture(NF, N, M, ...
