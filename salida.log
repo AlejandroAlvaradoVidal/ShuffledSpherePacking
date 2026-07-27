@@ -1,0 +1,1742 @@
+Starting Optimization M=2 | Initial Cond: 389.81 | Initial Density: 0.0413
+------------------------------------------------------------
+Iter: 20 | Dens: 0.0544 | Best Dens: 0.0544 | Status: 0/2000
+Iter: 40 | Dens: 0.0691 | Best Dens: 0.0691 | Status: 0/2000
+Iter: 60 | Dens: 0.0845 | Best Dens: 0.0845 | Status: 0/2000
+Iter: 80 | Dens: 0.0942 | Best Dens: 0.0942 | Status: 0/2000
+Iter: 100 | Dens: 0.1056 | Best Dens: 0.1056 | Status: 0/2000
+Iter: 120 | Dens: 0.1151 | Best Dens: 0.1151 | Status: 0/2000
+Iter: 140 | Dens: 0.1236 | Best Dens: 0.1236 | Status: 0/2000
+Iter: 160 | Dens: 0.1273 | Best Dens: 0.1273 | Status: 1/2000
+Iter: 180 | Dens: 0.1320 | Best Dens: 0.1322 | Status: 2/2000
+Iter: 200 | Dens: 0.1406 | Best Dens: 0.1406 | Status: 0/2000
+Iter: 220 | Dens: 0.1444 | Best Dens: 0.1444 | Status: 0/2000
+Iter: 240 | Dens: 0.1486 | Best Dens: 0.1486 | Status: 1/2000
+Iter: 260 | Dens: 0.1507 | Best Dens: 0.1509 | Status: 3/2000
+Iter: 280 | Dens: 0.1538 | Best Dens: 0.1538 | Status: 0/2000
+Iter: 300 | Dens: 0.1564 | Best Dens: 0.1564 | Status: 0/2000
+Iter: 320 | Dens: 0.1594 | Best Dens: 0.1594 | Status: 0/2000
+Iter: 340 | Dens: 0.1620 | Best Dens: 0.1621 | Status: 4/2000
+Iter: 360 | Dens: 0.1624 | Best Dens: 0.1625 | Status: 1/2000
+Iter: 380 | Dens: 0.1637 | Best Dens: 0.1637 | Status: 0/2000
+Iter: 400 | Dens: 0.1660 | Best Dens: 0.1660 | Status: 0/2000
+Iter: 420 | Dens: 0.1707 | Best Dens: 0.1707 | Status: 1/2000
+Iter: 440 | Dens: 0.1729 | Best Dens: 0.1729 | Status: 0/2000
+Iter: 460 | Dens: 0.1758 | Best Dens: 0.1758 | Status: 0/2000
+Iter: 480 | Dens: 0.1765 | Best Dens: 0.1767 | Status: 2/2000
+Iter: 500 | Dens: 0.1779 | Best Dens: 0.1783 | Status: 7/2000
+Iter: 520 | Dens: 0.1790 | Best Dens: 0.1793 | Status: 2/2000
+Iter: 540 | Dens: 0.1811 | Best Dens: 0.1815 | Status: 4/2000
+Iter: 560 | Dens: 0.1817 | Best Dens: 0.1817 | Status: 0/2000
+Iter: 580 | Dens: 0.1838 | Best Dens: 0.1839 | Status: 5/2000
+Iter: 600 | Dens: 0.1858 | Best Dens: 0.1858 | Status: 4/2000
+Iter: 620 | Dens: 0.1869 | Best Dens: 0.1869 | Status: 0/2000
+Iter: 640 | Dens: 0.1877 | Best Dens: 0.1877 | Status: 0/2000
+Iter: 660 | Dens: 0.1902 | Best Dens: 0.1907 | Status: 5/2000
+Iter: 680 | Dens: 0.1920 | Best Dens: 0.1920 | Status: 0/2000
+Iter: 700 | Dens: 0.1924 | Best Dens: 0.1929 | Status: 3/2000
+Iter: 720 | Dens: 0.1929 | Best Dens: 0.1931 | Status: 2/2000
+Iter: 740 | Dens: 0.1932 | Best Dens: 0.1935 | Status: 2/2000
+Iter: 760 | Dens: 0.1940 | Best Dens: 0.1941 | Status: 1/2000
+Iter: 780 | Dens: 0.1952 | Best Dens: 0.1955 | Status: 1/2000
+Iter: 800 | Dens: 0.1965 | Best Dens: 0.1966 | Status: 1/2000
+Iter: 820 | Dens: 0.1969 | Best Dens: 0.1979 | Status: 4/2000
+Iter: 840 | Dens: 0.1983 | Best Dens: 0.1985 | Status: 13/2000
+Iter: 860 | Dens: 0.1991 | Best Dens: 0.1997 | Status: 6/2000
+Iter: 880 | Dens: 0.2016 | Best Dens: 0.2019 | Status: 3/2000
+Iter: 900 | Dens: 0.2028 | Best Dens: 0.2028 | Status: 0/2000
+Iter: 920 | Dens: 0.2031 | Best Dens: 0.2032 | Status: 6/2000
+Iter: 940 | Dens: 0.2051 | Best Dens: 0.2051 | Status: 0/2000
+Iter: 960 | Dens: 0.2049 | Best Dens: 0.2055 | Status: 4/2000
+Iter: 980 | Dens: 0.2056 | Best Dens: 0.2060 | Status: 6/2000
+Iter: 1000 | Dens: 0.2059 | Best Dens: 0.2063 | Status: 1/2000
+Iter: 1020 | Dens: 0.2076 | Best Dens: 0.2076 | Status: 0/2000
+Iter: 1040 | Dens: 0.2071 | Best Dens: 0.2081 | Status: 3/2000
+Iter: 1060 | Dens: 0.2080 | Best Dens: 0.2084 | Status: 4/2000
+Iter: 1080 | Dens: 0.2081 | Best Dens: 0.2088 | Status: 3/2000
+Iter: 1100 | Dens: 0.2092 | Best Dens: 0.2092 | Status: 0/2000
+Iter: 1120 | Dens: 0.2087 | Best Dens: 0.2093 | Status: 9/2000
+Iter: 1140 | Dens: 0.2098 | Best Dens: 0.2102 | Status: 3/2000
+Iter: 1160 | Dens: 0.2107 | Best Dens: 0.2116 | Status: 4/2000
+Iter: 1180 | Dens: 0.2122 | Best Dens: 0.2126 | Status: 1/2000
+Iter: 1200 | Dens: 0.2137 | Best Dens: 0.2137 | Status: 0/2000
+Iter: 1220 | Dens: 0.2136 | Best Dens: 0.2139 | Status: 12/2000
+Iter: 1240 | Dens: 0.2146 | Best Dens: 0.2152 | Status: 1/2000
+Iter: 1260 | Dens: 0.2155 | Best Dens: 0.2155 | Status: 0/2000
+Iter: 1280 | Dens: 0.2150 | Best Dens: 0.2157 | Status: 2/2000
+Iter: 1300 | Dens: 0.2163 | Best Dens: 0.2165 | Status: 8/2000
+Iter: 1320 | Dens: 0.2182 | Best Dens: 0.2182 | Status: 0/2000
+Iter: 1340 | Dens: 0.2186 | Best Dens: 0.2192 | Status: 4/2000
+Iter: 1360 | Dens: 0.2191 | Best Dens: 0.2195 | Status: 7/2000
+Iter: 1380 | Dens: 0.2193 | Best Dens: 0.2196 | Status: 8/2000
+Iter: 1400 | Dens: 0.2201 | Best Dens: 0.2201 | Status: 2/2000
+Iter: 1420 | Dens: 0.2199 | Best Dens: 0.2202 | Status: 2/2000
+Iter: 1440 | Dens: 0.2204 | Best Dens: 0.2209 | Status: 5/2000
+Iter: 1460 | Dens: 0.2202 | Best Dens: 0.2212 | Status: 1/2000
+Iter: 1480 | Dens: 0.2212 | Best Dens: 0.2218 | Status: 15/2000
+Iter: 1500 | Dens: 0.2214 | Best Dens: 0.2219 | Status: 18/2000
+Iter: 1520 | Dens: 0.2218 | Best Dens: 0.2224 | Status: 7/2000
+Iter: 1540 | Dens: 0.2217 | Best Dens: 0.2224 | Status: 27/2000
+Iter: 1560 | Dens: 0.2221 | Best Dens: 0.2225 | Status: 3/2000
+Iter: 1580 | Dens: 0.2231 | Best Dens: 0.2231 | Status: 0/2000
+Iter: 1600 | Dens: 0.2233 | Best Dens: 0.2237 | Status: 8/2000
+Iter: 1620 | Dens: 0.2236 | Best Dens: 0.2238 | Status: 7/2000
+Iter: 1640 | Dens: 0.2232 | Best Dens: 0.2238 | Status: 12/2000
+Iter: 1660 | Dens: 0.2234 | Best Dens: 0.2238 | Status: 32/2000
+Iter: 1680 | Dens: 0.2226 | Best Dens: 0.2238 | Status: 52/2000
+Iter: 1700 | Dens: 0.2236 | Best Dens: 0.2239 | Status: 7/2000
+Iter: 1720 | Dens: 0.2235 | Best Dens: 0.2243 | Status: 4/2000
+Iter: 1740 | Dens: 0.2241 | Best Dens: 0.2243 | Status: 24/2000
+Iter: 1760 | Dens: 0.2233 | Best Dens: 0.2243 | Status: 4/2000
+Iter: 1780 | Dens: 0.2231 | Best Dens: 0.2243 | Status: 24/2000
+Iter: 1800 | Dens: 0.2240 | Best Dens: 0.2247 | Status: 5/2000
+Iter: 1820 | Dens: 0.2239 | Best Dens: 0.2247 | Status: 25/2000
+Iter: 1840 | Dens: 0.2246 | Best Dens: 0.2247 | Status: 17/2000
+Iter: 1860 | Dens: 0.2240 | Best Dens: 0.2248 | Status: 2/2000
+Iter: 1880 | Dens: 0.2245 | Best Dens: 0.2248 | Status: 22/2000
+Iter: 1900 | Dens: 0.2243 | Best Dens: 0.2248 | Status: 42/2000
+Iter: 1920 | Dens: 0.2247 | Best Dens: 0.2248 | Status: 62/2000
+Iter: 1940 | Dens: 0.2246 | Best Dens: 0.2248 | Status: 82/2000
+Iter: 1960 | Dens: 0.2248 | Best Dens: 0.2248 | Status: 102/2000
+Iter: 1980 | Dens: 0.2227 | Best Dens: 0.2248 | Status: 6/2000
+Iter: 2000 | Dens: 0.2246 | Best Dens: 0.2250 | Status: 15/2000
+>> Plot M=2 exported to: .\graphsv4\Opt_Mux_2.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 2.9288 | Density: 0.2250
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 60.0000
+>> Uniformity comparison plot M=2 exported to: .\graphsv4\Uniformity_Compare_Mux_2.png
+>> Gráfico de comparación de esferas M=2 exportado a: .\graphsv4\Sphere_Compare_Mux_2.png
+-------------------- Resumen M=2 --------------------
+  Condición: Inicial: 389.81 | Optimizada: 2.93 | Uniforme: 2.9288
+  Densidad:  Inicial: 0.0413 | Optimizada: 0.2250 | Uniforme: 0.2250
+  RMSE Unif: Inicial: 60.0000 | Optimizada: 60.0000 | Uniforme: 60.0000
+
+Starting Optimization M=3 | Initial Cond: 633.29 | Initial Density: 0.0483
+------------------------------------------------------------
+Iter: 20 | Dens: 0.0559 | Best Dens: 0.0559 | Status: 0/2000
+Iter: 40 | Dens: 0.0633 | Best Dens: 0.0633 | Status: 0/2000
+Iter: 60 | Dens: 0.0710 | Best Dens: 0.0710 | Status: 0/2000
+Iter: 80 | Dens: 0.0802 | Best Dens: 0.0802 | Status: 0/2000
+Iter: 100 | Dens: 0.0884 | Best Dens: 0.0884 | Status: 0/2000
+Iter: 120 | Dens: 0.0941 | Best Dens: 0.0941 | Status: 0/2000
+Iter: 140 | Dens: 0.1008 | Best Dens: 0.1008 | Status: 0/2000
+Iter: 160 | Dens: 0.1085 | Best Dens: 0.1085 | Status: 0/2000
+Iter: 180 | Dens: 0.1133 | Best Dens: 0.1133 | Status: 0/2000
+Iter: 200 | Dens: 0.1188 | Best Dens: 0.1188 | Status: 0/2000
+Iter: 220 | Dens: 0.1235 | Best Dens: 0.1235 | Status: 0/2000
+Iter: 240 | Dens: 0.1281 | Best Dens: 0.1282 | Status: 1/2000
+Iter: 260 | Dens: 0.1334 | Best Dens: 0.1334 | Status: 0/2000
+Iter: 280 | Dens: 0.1378 | Best Dens: 0.1378 | Status: 0/2000
+Iter: 300 | Dens: 0.1415 | Best Dens: 0.1417 | Status: 1/2000
+Iter: 320 | Dens: 0.1443 | Best Dens: 0.1443 | Status: 0/2000
+Iter: 340 | Dens: 0.1471 | Best Dens: 0.1472 | Status: 2/2000
+Iter: 360 | Dens: 0.1481 | Best Dens: 0.1486 | Status: 1/2000
+Iter: 380 | Dens: 0.1512 | Best Dens: 0.1512 | Status: 2/2000
+Iter: 400 | Dens: 0.1525 | Best Dens: 0.1531 | Status: 1/2000
+Iter: 420 | Dens: 0.1558 | Best Dens: 0.1558 | Status: 0/2000
+Iter: 440 | Dens: 0.1581 | Best Dens: 0.1581 | Status: 3/2000
+Iter: 460 | Dens: 0.1603 | Best Dens: 0.1603 | Status: 0/2000
+Iter: 480 | Dens: 0.1639 | Best Dens: 0.1639 | Status: 0/2000
+Iter: 500 | Dens: 0.1654 | Best Dens: 0.1656 | Status: 3/2000
+Iter: 520 | Dens: 0.1680 | Best Dens: 0.1682 | Status: 1/2000
+Iter: 540 | Dens: 0.1709 | Best Dens: 0.1709 | Status: 1/2000
+Iter: 560 | Dens: 0.1740 | Best Dens: 0.1741 | Status: 1/2000
+Iter: 580 | Dens: 0.1755 | Best Dens: 0.1756 | Status: 1/2000
+Iter: 600 | Dens: 0.1783 | Best Dens: 0.1783 | Status: 1/2000
+Iter: 620 | Dens: 0.1805 | Best Dens: 0.1805 | Status: 0/2000
+Iter: 640 | Dens: 0.1824 | Best Dens: 0.1828 | Status: 1/2000
+Iter: 660 | Dens: 0.1844 | Best Dens: 0.1846 | Status: 5/2000
+Iter: 680 | Dens: 0.1856 | Best Dens: 0.1856 | Status: 1/2000
+Iter: 700 | Dens: 0.1870 | Best Dens: 0.1870 | Status: 3/2000
+Iter: 720 | Dens: 0.1884 | Best Dens: 0.1885 | Status: 3/2000
+Iter: 740 | Dens: 0.1893 | Best Dens: 0.1897 | Status: 1/2000
+Iter: 760 | Dens: 0.1908 | Best Dens: 0.1908 | Status: 9/2000
+Iter: 780 | Dens: 0.1917 | Best Dens: 0.1917 | Status: 0/2000
+Iter: 800 | Dens: 0.1924 | Best Dens: 0.1930 | Status: 9/2000
+Iter: 820 | Dens: 0.1941 | Best Dens: 0.1943 | Status: 1/2000
+Iter: 840 | Dens: 0.1947 | Best Dens: 0.1953 | Status: 2/2000
+Iter: 860 | Dens: 0.1970 | Best Dens: 0.1972 | Status: 2/2000
+Iter: 880 | Dens: 0.1978 | Best Dens: 0.1982 | Status: 4/2000
+Iter: 900 | Dens: 0.1986 | Best Dens: 0.1992 | Status: 6/2000
+Iter: 920 | Dens: 0.1994 | Best Dens: 0.1995 | Status: 1/2000
+Iter: 940 | Dens: 0.2016 | Best Dens: 0.2016 | Status: 1/2000
+Iter: 960 | Dens: 0.2030 | Best Dens: 0.2030 | Status: 0/2000
+Iter: 980 | Dens: 0.2043 | Best Dens: 0.2044 | Status: 1/2000
+Iter: 1000 | Dens: 0.2040 | Best Dens: 0.2045 | Status: 3/2000
+Iter: 1020 | Dens: 0.2047 | Best Dens: 0.2051 | Status: 17/2000
+Iter: 1040 | Dens: 0.2048 | Best Dens: 0.2053 | Status: 1/2000
+Iter: 1060 | Dens: 0.2052 | Best Dens: 0.2060 | Status: 6/2000
+Iter: 1080 | Dens: 0.2063 | Best Dens: 0.2064 | Status: 5/2000
+Iter: 1100 | Dens: 0.2063 | Best Dens: 0.2065 | Status: 5/2000
+Iter: 1120 | Dens: 0.2066 | Best Dens: 0.2067 | Status: 5/2000
+Iter: 1140 | Dens: 0.2071 | Best Dens: 0.2078 | Status: 9/2000
+Iter: 1160 | Dens: 0.2081 | Best Dens: 0.2087 | Status: 5/2000
+Iter: 1180 | Dens: 0.2088 | Best Dens: 0.2088 | Status: 3/2000
+Iter: 1200 | Dens: 0.2090 | Best Dens: 0.2095 | Status: 9/2000
+Iter: 1220 | Dens: 0.2100 | Best Dens: 0.2100 | Status: 0/2000
+Iter: 1240 | Dens: 0.2105 | Best Dens: 0.2105 | Status: 0/2000
+Iter: 1260 | Dens: 0.2113 | Best Dens: 0.2113 | Status: 0/2000
+Iter: 1280 | Dens: 0.2115 | Best Dens: 0.2119 | Status: 2/2000
+Iter: 1300 | Dens: 0.2118 | Best Dens: 0.2121 | Status: 7/2000
+Iter: 1320 | Dens: 0.2123 | Best Dens: 0.2124 | Status: 1/2000
+Iter: 1340 | Dens: 0.2121 | Best Dens: 0.2129 | Status: 4/2000
+Iter: 1360 | Dens: 0.2129 | Best Dens: 0.2131 | Status: 12/2000
+Iter: 1380 | Dens: 0.2124 | Best Dens: 0.2131 | Status: 32/2000
+Iter: 1400 | Dens: 0.2130 | Best Dens: 0.2135 | Status: 14/2000
+Iter: 1420 | Dens: 0.2144 | Best Dens: 0.2144 | Status: 0/2000
+Iter: 1440 | Dens: 0.2140 | Best Dens: 0.2144 | Status: 12/2000
+Iter: 1460 | Dens: 0.2147 | Best Dens: 0.2150 | Status: 1/2000
+Iter: 1480 | Dens: 0.2146 | Best Dens: 0.2150 | Status: 21/2000
+Iter: 1500 | Dens: 0.2148 | Best Dens: 0.2152 | Status: 9/2000
+Iter: 1520 | Dens: 0.2146 | Best Dens: 0.2154 | Status: 4/2000
+Iter: 1540 | Dens: 0.2159 | Best Dens: 0.2164 | Status: 3/2000
+Iter: 1560 | Dens: 0.2167 | Best Dens: 0.2168 | Status: 3/2000
+Iter: 1580 | Dens: 0.2156 | Best Dens: 0.2170 | Status: 11/2000
+Iter: 1600 | Dens: 0.2178 | Best Dens: 0.2185 | Status: 3/2000
+Iter: 1620 | Dens: 0.2183 | Best Dens: 0.2188 | Status: 4/2000
+Iter: 1640 | Dens: 0.2189 | Best Dens: 0.2189 | Status: 15/2000
+Iter: 1660 | Dens: 0.2194 | Best Dens: 0.2194 | Status: 0/2000
+Iter: 1680 | Dens: 0.2195 | Best Dens: 0.2197 | Status: 12/2000
+Iter: 1700 | Dens: 0.2194 | Best Dens: 0.2202 | Status: 4/2000
+Iter: 1720 | Dens: 0.2202 | Best Dens: 0.2202 | Status: 10/2000
+Iter: 1740 | Dens: 0.2203 | Best Dens: 0.2205 | Status: 1/2000
+Iter: 1760 | Dens: 0.2206 | Best Dens: 0.2206 | Status: 6/2000
+Iter: 1780 | Dens: 0.2212 | Best Dens: 0.2214 | Status: 3/2000
+Iter: 1800 | Dens: 0.2208 | Best Dens: 0.2216 | Status: 14/2000
+Iter: 1820 | Dens: 0.2219 | Best Dens: 0.2222 | Status: 6/2000
+Iter: 1840 | Dens: 0.2220 | Best Dens: 0.2223 | Status: 1/2000
+Iter: 1860 | Dens: 0.2225 | Best Dens: 0.2225 | Status: 0/2000
+Iter: 1880 | Dens: 0.2224 | Best Dens: 0.2225 | Status: 16/2000
+Iter: 1900 | Dens: 0.2227 | Best Dens: 0.2229 | Status: 6/2000
+Iter: 1920 | Dens: 0.2224 | Best Dens: 0.2231 | Status: 14/2000
+Iter: 1940 | Dens: 0.2230 | Best Dens: 0.2234 | Status: 2/2000
+Iter: 1960 | Dens: 0.2232 | Best Dens: 0.2235 | Status: 9/2000
+Iter: 1980 | Dens: 0.2228 | Best Dens: 0.2239 | Status: 10/2000
+Iter: 2000 | Dens: 0.2233 | Best Dens: 0.2239 | Status: 30/2000
+>> Plot M=3 exported to: .\graphsv4\Opt_Mux_3.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 5.4103 | Density: 0.2239
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 90.0000
+>> Uniformity comparison plot M=3 exported to: .\graphsv4\Uniformity_Compare_Mux_3.png
+>> Gráfico de comparación de esferas M=3 exportado a: .\graphsv4\Sphere_Compare_Mux_3.png
+-------------------- Resumen M=3 --------------------
+  Condición: Inicial: 633.29 | Optimizada: 5.41 | Uniforme: 5.4103
+  Densidad:  Inicial: 0.0483 | Optimizada: 0.2239 | Uniforme: 0.2239
+  RMSE Unif: Inicial: 90.0000 | Optimizada: 90.0000 | Uniforme: 90.0000
+
+Starting Optimization M=4 | Initial Cond: 821.22 | Initial Density: 0.0617
+------------------------------------------------------------
+Iter: 20 | Dens: 0.0664 | Best Dens: 0.0664 | Status: 1/2000
+Iter: 40 | Dens: 0.0691 | Best Dens: 0.0691 | Status: 1/2000
+Iter: 60 | Dens: 0.0736 | Best Dens: 0.0736 | Status: 0/2000
+Iter: 80 | Dens: 0.0804 | Best Dens: 0.0804 | Status: 0/2000
+Iter: 100 | Dens: 0.0852 | Best Dens: 0.0852 | Status: 0/2000
+Iter: 120 | Dens: 0.0896 | Best Dens: 0.0896 | Status: 0/2000
+Iter: 140 | Dens: 0.0940 | Best Dens: 0.0940 | Status: 0/2000
+Iter: 160 | Dens: 0.0993 | Best Dens: 0.0993 | Status: 0/2000
+Iter: 180 | Dens: 0.1038 | Best Dens: 0.1038 | Status: 0/2000
+Iter: 200 | Dens: 0.1087 | Best Dens: 0.1087 | Status: 0/2000
+Iter: 220 | Dens: 0.1128 | Best Dens: 0.1128 | Status: 0/2000
+Iter: 240 | Dens: 0.1176 | Best Dens: 0.1176 | Status: 0/2000
+Iter: 260 | Dens: 0.1215 | Best Dens: 0.1215 | Status: 0/2000
+Iter: 280 | Dens: 0.1250 | Best Dens: 0.1250 | Status: 2/2000
+Iter: 300 | Dens: 0.1282 | Best Dens: 0.1284 | Status: 1/2000
+Iter: 320 | Dens: 0.1325 | Best Dens: 0.1325 | Status: 0/2000
+Iter: 340 | Dens: 0.1348 | Best Dens: 0.1348 | Status: 0/2000
+Iter: 360 | Dens: 0.1387 | Best Dens: 0.1387 | Status: 0/2000
+Iter: 380 | Dens: 0.1410 | Best Dens: 0.1410 | Status: 0/2000
+Iter: 400 | Dens: 0.1444 | Best Dens: 0.1444 | Status: 0/2000
+Iter: 420 | Dens: 0.1464 | Best Dens: 0.1465 | Status: 1/2000
+Iter: 440 | Dens: 0.1507 | Best Dens: 0.1508 | Status: 2/2000
+Iter: 460 | Dens: 0.1557 | Best Dens: 0.1559 | Status: 1/2000
+Iter: 480 | Dens: 0.1599 | Best Dens: 0.1599 | Status: 0/2000
+Iter: 500 | Dens: 0.1623 | Best Dens: 0.1623 | Status: 2/2000
+Iter: 520 | Dens: 0.1650 | Best Dens: 0.1650 | Status: 0/2000
+Iter: 540 | Dens: 0.1688 | Best Dens: 0.1688 | Status: 0/2000
+Iter: 560 | Dens: 0.1705 | Best Dens: 0.1706 | Status: 2/2000
+Iter: 580 | Dens: 0.1735 | Best Dens: 0.1735 | Status: 0/2000
+Iter: 600 | Dens: 0.1753 | Best Dens: 0.1753 | Status: 0/2000
+Iter: 620 | Dens: 0.1769 | Best Dens: 0.1772 | Status: 2/2000
+Iter: 640 | Dens: 0.1786 | Best Dens: 0.1786 | Status: 0/2000
+Iter: 660 | Dens: 0.1793 | Best Dens: 0.1795 | Status: 4/2000
+Iter: 680 | Dens: 0.1818 | Best Dens: 0.1818 | Status: 0/2000
+Iter: 700 | Dens: 0.1835 | Best Dens: 0.1839 | Status: 1/2000
+Iter: 720 | Dens: 0.1845 | Best Dens: 0.1845 | Status: 8/2000
+Iter: 740 | Dens: 0.1871 | Best Dens: 0.1871 | Status: 0/2000
+Iter: 760 | Dens: 0.1885 | Best Dens: 0.1885 | Status: 0/2000
+Iter: 780 | Dens: 0.1897 | Best Dens: 0.1903 | Status: 4/2000
+Iter: 800 | Dens: 0.1934 | Best Dens: 0.1936 | Status: 2/2000
+Iter: 820 | Dens: 0.1942 | Best Dens: 0.1943 | Status: 7/2000
+Iter: 840 | Dens: 0.1954 | Best Dens: 0.1956 | Status: 7/2000
+Iter: 860 | Dens: 0.1969 | Best Dens: 0.1970 | Status: 3/2000
+Iter: 880 | Dens: 0.1968 | Best Dens: 0.1973 | Status: 6/2000
+Iter: 900 | Dens: 0.1985 | Best Dens: 0.1985 | Status: 0/2000
+Iter: 920 | Dens: 0.1999 | Best Dens: 0.1999 | Status: 6/2000
+Iter: 940 | Dens: 0.2004 | Best Dens: 0.2004 | Status: 4/2000
+Iter: 960 | Dens: 0.2021 | Best Dens: 0.2022 | Status: 1/2000
+Iter: 980 | Dens: 0.2019 | Best Dens: 0.2022 | Status: 15/2000
+Iter: 1000 | Dens: 0.2024 | Best Dens: 0.2030 | Status: 3/2000
+Iter: 1020 | Dens: 0.2033 | Best Dens: 0.2033 | Status: 3/2000
+Iter: 1040 | Dens: 0.2042 | Best Dens: 0.2049 | Status: 2/2000
+Iter: 1060 | Dens: 0.2062 | Best Dens: 0.2062 | Status: 2/2000
+Iter: 1080 | Dens: 0.2074 | Best Dens: 0.2074 | Status: 0/2000
+Iter: 1100 | Dens: 0.2073 | Best Dens: 0.2075 | Status: 1/2000
+Iter: 1120 | Dens: 0.2075 | Best Dens: 0.2077 | Status: 2/2000
+Iter: 1140 | Dens: 0.2079 | Best Dens: 0.2079 | Status: 0/2000
+Iter: 1160 | Dens: 0.2079 | Best Dens: 0.2081 | Status: 12/2000
+Iter: 1180 | Dens: 0.2089 | Best Dens: 0.2089 | Status: 0/2000
+Iter: 1200 | Dens: 0.2096 | Best Dens: 0.2096 | Status: 0/2000
+Iter: 1220 | Dens: 0.2096 | Best Dens: 0.2099 | Status: 4/2000
+Iter: 1240 | Dens: 0.2101 | Best Dens: 0.2104 | Status: 1/2000
+Iter: 1260 | Dens: 0.2108 | Best Dens: 0.2109 | Status: 8/2000
+Iter: 1280 | Dens: 0.2112 | Best Dens: 0.2114 | Status: 3/2000
+Iter: 1300 | Dens: 0.2114 | Best Dens: 0.2117 | Status: 1/2000
+Iter: 1320 | Dens: 0.2130 | Best Dens: 0.2130 | Status: 0/2000
+Iter: 1340 | Dens: 0.2128 | Best Dens: 0.2133 | Status: 5/2000
+Iter: 1360 | Dens: 0.2135 | Best Dens: 0.2137 | Status: 2/2000
+Iter: 1380 | Dens: 0.2132 | Best Dens: 0.2138 | Status: 10/2000
+Iter: 1400 | Dens: 0.2142 | Best Dens: 0.2147 | Status: 2/2000
+Iter: 1420 | Dens: 0.2155 | Best Dens: 0.2155 | Status: 0/2000
+Iter: 1440 | Dens: 0.2152 | Best Dens: 0.2155 | Status: 20/2000
+Iter: 1460 | Dens: 0.2148 | Best Dens: 0.2156 | Status: 12/2000
+Iter: 1480 | Dens: 0.2158 | Best Dens: 0.2164 | Status: 2/2000
+Iter: 1500 | Dens: 0.2165 | Best Dens: 0.2166 | Status: 3/2000
+Iter: 1520 | Dens: 0.2169 | Best Dens: 0.2171 | Status: 14/2000
+Iter: 1540 | Dens: 0.2166 | Best Dens: 0.2175 | Status: 9/2000
+Iter: 1560 | Dens: 0.2175 | Best Dens: 0.2177 | Status: 12/2000
+Iter: 1580 | Dens: 0.2177 | Best Dens: 0.2180 | Status: 1/2000
+Iter: 1600 | Dens: 0.2176 | Best Dens: 0.2182 | Status: 13/2000
+Iter: 1620 | Dens: 0.2184 | Best Dens: 0.2185 | Status: 4/2000
+Iter: 1640 | Dens: 0.2182 | Best Dens: 0.2185 | Status: 24/2000
+Iter: 1660 | Dens: 0.2187 | Best Dens: 0.2187 | Status: 0/2000
+Iter: 1680 | Dens: 0.2183 | Best Dens: 0.2188 | Status: 5/2000
+Iter: 1700 | Dens: 0.2187 | Best Dens: 0.2189 | Status: 13/2000
+Iter: 1720 | Dens: 0.2196 | Best Dens: 0.2198 | Status: 1/2000
+Iter: 1740 | Dens: 0.2197 | Best Dens: 0.2198 | Status: 21/2000
+Iter: 1760 | Dens: 0.2200 | Best Dens: 0.2200 | Status: 0/2000
+Iter: 1780 | Dens: 0.2200 | Best Dens: 0.2200 | Status: 20/2000
+Iter: 1800 | Dens: 0.2205 | Best Dens: 0.2208 | Status: 3/2000
+Iter: 1820 | Dens: 0.2210 | Best Dens: 0.2212 | Status: 1/2000
+Iter: 1840 | Dens: 0.2210 | Best Dens: 0.2212 | Status: 14/2000
+Iter: 1860 | Dens: 0.2209 | Best Dens: 0.2213 | Status: 16/2000
+Iter: 1880 | Dens: 0.2217 | Best Dens: 0.2221 | Status: 6/2000
+Iter: 1900 | Dens: 0.2215 | Best Dens: 0.2221 | Status: 8/2000
+Iter: 1920 | Dens: 0.2217 | Best Dens: 0.2224 | Status: 8/2000
+Iter: 1940 | Dens: 0.2219 | Best Dens: 0.2224 | Status: 2/2000
+Iter: 1960 | Dens: 0.2220 | Best Dens: 0.2227 | Status: 1/2000
+Iter: 1980 | Dens: 0.2225 | Best Dens: 0.2231 | Status: 3/2000
+Iter: 2000 | Dens: 0.2232 | Best Dens: 0.2235 | Status: 9/2000
+>> Plot M=4 exported to: .\graphsv4\Opt_Mux_4.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 8.5108 | Density: 0.2235
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 120.0000
+>> Uniformity comparison plot M=4 exported to: .\graphsv4\Uniformity_Compare_Mux_4.png
+>> Gráfico de comparación de esferas M=4 exportado a: .\graphsv4\Sphere_Compare_Mux_4.png
+-------------------- Resumen M=4 --------------------
+  Condición: Inicial: 821.22 | Optimizada: 8.51 | Uniforme: 8.5108
+  Densidad:  Inicial: 0.0617 | Optimizada: 0.2235 | Uniforme: 0.2235
+  RMSE Unif: Inicial: 120.0000 | Optimizada: 120.0000 | Uniforme: 120.0000
+
+Starting Optimization M=5 | Initial Cond: 797.13 | Initial Density: 0.0771
+------------------------------------------------------------
+Iter: 20 | Dens: 0.0822 | Best Dens: 0.0822 | Status: 2/2000
+Iter: 40 | Dens: 0.0858 | Best Dens: 0.0858 | Status: 0/2000
+Iter: 60 | Dens: 0.0899 | Best Dens: 0.0899 | Status: 0/2000
+Iter: 80 | Dens: 0.0947 | Best Dens: 0.0947 | Status: 0/2000
+Iter: 100 | Dens: 0.0996 | Best Dens: 0.0996 | Status: 0/2000
+Iter: 120 | Dens: 0.1049 | Best Dens: 0.1049 | Status: 0/2000
+Iter: 140 | Dens: 0.1083 | Best Dens: 0.1083 | Status: 0/2000
+Iter: 160 | Dens: 0.1123 | Best Dens: 0.1123 | Status: 0/2000
+Iter: 180 | Dens: 0.1169 | Best Dens: 0.1169 | Status: 0/2000
+Iter: 200 | Dens: 0.1207 | Best Dens: 0.1207 | Status: 0/2000
+Iter: 220 | Dens: 0.1251 | Best Dens: 0.1251 | Status: 0/2000
+Iter: 240 | Dens: 0.1275 | Best Dens: 0.1275 | Status: 0/2000
+Iter: 260 | Dens: 0.1319 | Best Dens: 0.1319 | Status: 0/2000
+Iter: 280 | Dens: 0.1346 | Best Dens: 0.1346 | Status: 0/2000
+Iter: 300 | Dens: 0.1377 | Best Dens: 0.1377 | Status: 3/2000
+Iter: 320 | Dens: 0.1422 | Best Dens: 0.1422 | Status: 0/2000
+Iter: 340 | Dens: 0.1451 | Best Dens: 0.1451 | Status: 0/2000
+Iter: 360 | Dens: 0.1481 | Best Dens: 0.1481 | Status: 1/2000
+Iter: 380 | Dens: 0.1548 | Best Dens: 0.1548 | Status: 0/2000
+Iter: 400 | Dens: 0.1578 | Best Dens: 0.1582 | Status: 1/2000
+Iter: 420 | Dens: 0.1610 | Best Dens: 0.1611 | Status: 1/2000
+Iter: 440 | Dens: 0.1624 | Best Dens: 0.1624 | Status: 0/2000
+Iter: 460 | Dens: 0.1643 | Best Dens: 0.1643 | Status: 0/2000
+Iter: 480 | Dens: 0.1664 | Best Dens: 0.1664 | Status: 0/2000
+Iter: 500 | Dens: 0.1702 | Best Dens: 0.1702 | Status: 0/2000
+Iter: 520 | Dens: 0.1721 | Best Dens: 0.1721 | Status: 2/2000
+Iter: 540 | Dens: 0.1751 | Best Dens: 0.1751 | Status: 0/2000
+Iter: 560 | Dens: 0.1789 | Best Dens: 0.1791 | Status: 1/2000
+Iter: 580 | Dens: 0.1807 | Best Dens: 0.1807 | Status: 0/2000
+Iter: 600 | Dens: 0.1832 | Best Dens: 0.1832 | Status: 0/2000
+Iter: 620 | Dens: 0.1854 | Best Dens: 0.1854 | Status: 0/2000
+Iter: 640 | Dens: 0.1879 | Best Dens: 0.1881 | Status: 1/2000
+Iter: 660 | Dens: 0.1900 | Best Dens: 0.1900 | Status: 0/2000
+Iter: 680 | Dens: 0.1925 | Best Dens: 0.1925 | Status: 0/2000
+Iter: 700 | Dens: 0.1948 | Best Dens: 0.1948 | Status: 0/2000
+Iter: 720 | Dens: 0.1972 | Best Dens: 0.1972 | Status: 0/2000
+Iter: 740 | Dens: 0.1985 | Best Dens: 0.1988 | Status: 1/2000
+Iter: 760 | Dens: 0.1996 | Best Dens: 0.1997 | Status: 3/2000
+Iter: 780 | Dens: 0.2001 | Best Dens: 0.2001 | Status: 13/2000
+Iter: 800 | Dens: 0.2010 | Best Dens: 0.2012 | Status: 1/2000
+Iter: 820 | Dens: 0.2011 | Best Dens: 0.2016 | Status: 4/2000
+Iter: 840 | Dens: 0.2027 | Best Dens: 0.2035 | Status: 1/2000
+Iter: 860 | Dens: 0.2040 | Best Dens: 0.2045 | Status: 3/2000
+Iter: 880 | Dens: 0.2055 | Best Dens: 0.2055 | Status: 0/2000
+Iter: 900 | Dens: 0.2065 | Best Dens: 0.2065 | Status: 0/2000
+Iter: 920 | Dens: 0.2075 | Best Dens: 0.2075 | Status: 0/2000
+Iter: 940 | Dens: 0.2087 | Best Dens: 0.2087 | Status: 0/2000
+Iter: 960 | Dens: 0.2091 | Best Dens: 0.2092 | Status: 1/2000
+Iter: 980 | Dens: 0.2097 | Best Dens: 0.2098 | Status: 5/2000
+Iter: 1000 | Dens: 0.2103 | Best Dens: 0.2104 | Status: 3/2000
+Iter: 1020 | Dens: 0.2109 | Best Dens: 0.2114 | Status: 3/2000
+Iter: 1040 | Dens: 0.2125 | Best Dens: 0.2128 | Status: 1/2000
+Iter: 1060 | Dens: 0.2150 | Best Dens: 0.2150 | Status: 0/2000
+Iter: 1080 | Dens: 0.2170 | Best Dens: 0.2170 | Status: 1/2000
+Iter: 1100 | Dens: 0.2182 | Best Dens: 0.2184 | Status: 3/2000
+Iter: 1120 | Dens: 0.2189 | Best Dens: 0.2189 | Status: 1/2000
+Iter: 1140 | Dens: 0.2186 | Best Dens: 0.2193 | Status: 6/2000
+Iter: 1160 | Dens: 0.2199 | Best Dens: 0.2199 | Status: 0/2000
+Iter: 1180 | Dens: 0.2199 | Best Dens: 0.2202 | Status: 14/2000
+Iter: 1200 | Dens: 0.2199 | Best Dens: 0.2206 | Status: 4/2000
+Iter: 1220 | Dens: 0.2216 | Best Dens: 0.2216 | Status: 0/2000
+Iter: 1240 | Dens: 0.2216 | Best Dens: 0.2220 | Status: 4/2000
+Iter: 1260 | Dens: 0.2220 | Best Dens: 0.2224 | Status: 8/2000
+Iter: 1280 | Dens: 0.2226 | Best Dens: 0.2226 | Status: 4/2000
+Iter: 1300 | Dens: 0.2227 | Best Dens: 0.2232 | Status: 1/2000
+Iter: 1320 | Dens: 0.2244 | Best Dens: 0.2245 | Status: 2/2000
+Iter: 1340 | Dens: 0.2240 | Best Dens: 0.2245 | Status: 22/2000
+Iter: 1360 | Dens: 0.2255 | Best Dens: 0.2255 | Status: 4/2000
+Iter: 1380 | Dens: 0.2251 | Best Dens: 0.2256 | Status: 7/2000
+Iter: 1400 | Dens: 0.2254 | Best Dens: 0.2256 | Status: 27/2000
+Iter: 1420 | Dens: 0.2257 | Best Dens: 0.2260 | Status: 4/2000
+Iter: 1440 | Dens: 0.2267 | Best Dens: 0.2269 | Status: 2/2000
+Iter: 1460 | Dens: 0.2277 | Best Dens: 0.2279 | Status: 12/2000
+Iter: 1480 | Dens: 0.2285 | Best Dens: 0.2285 | Status: 0/2000
+Iter: 1500 | Dens: 0.2285 | Best Dens: 0.2291 | Status: 3/2000
+Iter: 1520 | Dens: 0.2292 | Best Dens: 0.2296 | Status: 7/2000
+Iter: 1540 | Dens: 0.2300 | Best Dens: 0.2300 | Status: 0/2000
+Iter: 1560 | Dens: 0.2300 | Best Dens: 0.2304 | Status: 9/2000
+Iter: 1580 | Dens: 0.2299 | Best Dens: 0.2305 | Status: 14/2000
+Iter: 1600 | Dens: 0.2307 | Best Dens: 0.2308 | Status: 9/2000
+Iter: 1620 | Dens: 0.2306 | Best Dens: 0.2310 | Status: 3/2000
+Iter: 1640 | Dens: 0.2310 | Best Dens: 0.2311 | Status: 5/2000
+Iter: 1660 | Dens: 0.2311 | Best Dens: 0.2316 | Status: 11/2000
+Iter: 1680 | Dens: 0.2316 | Best Dens: 0.2318 | Status: 4/2000
+Iter: 1700 | Dens: 0.2319 | Best Dens: 0.2320 | Status: 2/2000
+Iter: 1720 | Dens: 0.2321 | Best Dens: 0.2321 | Status: 2/2000
+Iter: 1740 | Dens: 0.2320 | Best Dens: 0.2324 | Status: 3/2000
+Iter: 1760 | Dens: 0.2318 | Best Dens: 0.2325 | Status: 18/2000
+Iter: 1780 | Dens: 0.2324 | Best Dens: 0.2325 | Status: 7/2000
+Iter: 1800 | Dens: 0.2326 | Best Dens: 0.2326 | Status: 0/2000
+Iter: 1820 | Dens: 0.2326 | Best Dens: 0.2327 | Status: 15/2000
+Iter: 1840 | Dens: 0.2327 | Best Dens: 0.2327 | Status: 3/2000
+Iter: 1860 | Dens: 0.2324 | Best Dens: 0.2329 | Status: 2/2000
+Iter: 1880 | Dens: 0.2325 | Best Dens: 0.2329 | Status: 22/2000
+Iter: 1900 | Dens: 0.2335 | Best Dens: 0.2335 | Status: 1/2000
+Iter: 1920 | Dens: 0.2328 | Best Dens: 0.2336 | Status: 15/2000
+Iter: 1940 | Dens: 0.2332 | Best Dens: 0.2336 | Status: 35/2000
+Iter: 1960 | Dens: 0.2343 | Best Dens: 0.2344 | Status: 5/2000
+Iter: 1980 | Dens: 0.2337 | Best Dens: 0.2346 | Status: 2/2000
+Iter: 2000 | Dens: 0.2341 | Best Dens: 0.2347 | Status: 19/2000
+>> Plot M=5 exported to: .\graphsv4\Opt_Mux_5.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 10.9700 | Density: 0.2347
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 150.0000
+>> Uniformity comparison plot M=5 exported to: .\graphsv4\Uniformity_Compare_Mux_5.png
+>> Gráfico de comparación de esferas M=5 exportado a: .\graphsv4\Sphere_Compare_Mux_5.png
+-------------------- Resumen M=5 --------------------
+  Condición: Inicial: 797.13 | Optimizada: 10.97 | Uniforme: 10.9700
+  Densidad:  Inicial: 0.0771 | Optimizada: 0.2347 | Uniforme: 0.2347
+  RMSE Unif: Inicial: 150.0000 | Optimizada: 150.0000 | Uniforme: 150.0000
+
+Starting Optimization M=6 | Initial Cond: 828.40 | Initial Density: 0.0923
+------------------------------------------------------------
+Iter: 20 | Dens: 0.0925 | Best Dens: 0.0925 | Status: 10/2000
+Iter: 40 | Dens: 0.0930 | Best Dens: 0.0930 | Status: 0/2000
+Iter: 60 | Dens: 0.0932 | Best Dens: 0.0932 | Status: 6/2000
+Iter: 80 | Dens: 0.0935 | Best Dens: 0.0935 | Status: 5/2000
+Iter: 100 | Dens: 0.0938 | Best Dens: 0.0938 | Status: 1/2000
+Iter: 120 | Dens: 0.0941 | Best Dens: 0.0941 | Status: 2/2000
+Iter: 140 | Dens: 0.0942 | Best Dens: 0.0942 | Status: 17/2000
+Iter: 160 | Dens: 0.0943 | Best Dens: 0.0943 | Status: 6/2000
+Iter: 180 | Dens: 0.0947 | Best Dens: 0.0947 | Status: 2/2000
+Iter: 200 | Dens: 0.0948 | Best Dens: 0.0948 | Status: 3/2000
+Iter: 220 | Dens: 0.0952 | Best Dens: 0.0952 | Status: 1/2000
+Iter: 240 | Dens: 0.0955 | Best Dens: 0.0955 | Status: 6/2000
+Iter: 260 | Dens: 0.0956 | Best Dens: 0.0956 | Status: 0/2000
+Iter: 280 | Dens: 0.0961 | Best Dens: 0.0961 | Status: 0/2000
+Iter: 300 | Dens: 0.0964 | Best Dens: 0.0965 | Status: 1/2000
+Iter: 320 | Dens: 0.0969 | Best Dens: 0.0969 | Status: 1/2000
+Iter: 340 | Dens: 0.0969 | Best Dens: 0.0969 | Status: 0/2000
+Iter: 360 | Dens: 0.0969 | Best Dens: 0.0969 | Status: 11/2000
+Iter: 380 | Dens: 0.0970 | Best Dens: 0.0970 | Status: 0/2000
+Iter: 400 | Dens: 0.0971 | Best Dens: 0.0971 | Status: 16/2000
+Iter: 420 | Dens: 0.0973 | Best Dens: 0.0974 | Status: 6/2000
+Iter: 440 | Dens: 0.0976 | Best Dens: 0.0976 | Status: 3/2000
+Iter: 460 | Dens: 0.0977 | Best Dens: 0.0977 | Status: 14/2000
+Iter: 480 | Dens: 0.0980 | Best Dens: 0.0980 | Status: 0/2000
+Iter: 500 | Dens: 0.0980 | Best Dens: 0.0980 | Status: 8/2000
+Iter: 520 | Dens: 0.0980 | Best Dens: 0.0980 | Status: 28/2000
+Iter: 540 | Dens: 0.0982 | Best Dens: 0.0982 | Status: 11/2000
+Iter: 560 | Dens: 0.0986 | Best Dens: 0.0986 | Status: 4/2000
+Iter: 580 | Dens: 0.0987 | Best Dens: 0.0987 | Status: 9/2000
+Iter: 600 | Dens: 0.0990 | Best Dens: 0.0990 | Status: 4/2000
+Iter: 620 | Dens: 0.0990 | Best Dens: 0.0990 | Status: 24/2000
+Iter: 640 | Dens: 0.0997 | Best Dens: 0.0997 | Status: 0/2000
+Iter: 660 | Dens: 0.1000 | Best Dens: 0.1000 | Status: 5/2000
+Iter: 680 | Dens: 0.1002 | Best Dens: 0.1002 | Status: 8/2000
+Iter: 700 | Dens: 0.1003 | Best Dens: 0.1003 | Status: 0/2000
+Iter: 720 | Dens: 0.1004 | Best Dens: 0.1004 | Status: 4/2000
+Iter: 740 | Dens: 0.1005 | Best Dens: 0.1005 | Status: 0/2000
+Iter: 760 | Dens: 0.1005 | Best Dens: 0.1006 | Status: 17/2000
+Iter: 780 | Dens: 0.1008 | Best Dens: 0.1008 | Status: 9/2000
+Iter: 800 | Dens: 0.1009 | Best Dens: 0.1009 | Status: 3/2000
+Iter: 820 | Dens: 0.1011 | Best Dens: 0.1011 | Status: 8/2000
+Iter: 840 | Dens: 0.1011 | Best Dens: 0.1011 | Status: 28/2000
+Iter: 860 | Dens: 0.1016 | Best Dens: 0.1016 | Status: 0/2000
+Iter: 880 | Dens: 0.1017 | Best Dens: 0.1017 | Status: 4/2000
+Iter: 900 | Dens: 0.1018 | Best Dens: 0.1018 | Status: 4/2000
+Iter: 920 | Dens: 0.1024 | Best Dens: 0.1024 | Status: 0/2000
+Iter: 940 | Dens: 0.1024 | Best Dens: 0.1024 | Status: 18/2000
+Iter: 960 | Dens: 0.1024 | Best Dens: 0.1024 | Status: 12/2000
+Iter: 980 | Dens: 0.1025 | Best Dens: 0.1025 | Status: 9/2000
+Iter: 1000 | Dens: 0.1027 | Best Dens: 0.1028 | Status: 1/2000
+Iter: 1020 | Dens: 0.1027 | Best Dens: 0.1029 | Status: 4/2000
+Iter: 1040 | Dens: 0.1030 | Best Dens: 0.1030 | Status: 12/2000
+Iter: 1060 | Dens: 0.1033 | Best Dens: 0.1033 | Status: 0/2000
+Iter: 1080 | Dens: 0.1033 | Best Dens: 0.1033 | Status: 20/2000
+Iter: 1100 | Dens: 0.1030 | Best Dens: 0.1033 | Status: 40/2000
+Iter: 1120 | Dens: 0.1033 | Best Dens: 0.1033 | Status: 60/2000
+Iter: 1140 | Dens: 0.1033 | Best Dens: 0.1033 | Status: 6/2000
+Iter: 1160 | Dens: 0.1034 | Best Dens: 0.1034 | Status: 10/2000
+Iter: 1180 | Dens: 0.1034 | Best Dens: 0.1034 | Status: 11/2000
+Iter: 1200 | Dens: 0.1035 | Best Dens: 0.1036 | Status: 9/2000
+Iter: 1220 | Dens: 0.1036 | Best Dens: 0.1036 | Status: 29/2000
+Iter: 1240 | Dens: 0.1037 | Best Dens: 0.1037 | Status: 5/2000
+Iter: 1260 | Dens: 0.1038 | Best Dens: 0.1039 | Status: 3/2000
+Iter: 1280 | Dens: 0.1040 | Best Dens: 0.1040 | Status: 0/2000
+Iter: 1300 | Dens: 0.1041 | Best Dens: 0.1041 | Status: 14/2000
+Iter: 1320 | Dens: 0.1045 | Best Dens: 0.1045 | Status: 1/2000
+Iter: 1340 | Dens: 0.1049 | Best Dens: 0.1049 | Status: 1/2000
+Iter: 1360 | Dens: 0.1049 | Best Dens: 0.1049 | Status: 11/2000
+Iter: 1380 | Dens: 0.1045 | Best Dens: 0.1049 | Status: 31/2000
+Iter: 1400 | Dens: 0.1049 | Best Dens: 0.1050 | Status: 19/2000
+Iter: 1420 | Dens: 0.1049 | Best Dens: 0.1050 | Status: 9/2000
+Iter: 1440 | Dens: 0.1052 | Best Dens: 0.1052 | Status: 6/2000
+Iter: 1460 | Dens: 0.1052 | Best Dens: 0.1052 | Status: 1/2000
+Iter: 1480 | Dens: 0.1057 | Best Dens: 0.1057 | Status: 13/2000
+Iter: 1500 | Dens: 0.1055 | Best Dens: 0.1057 | Status: 33/2000
+Iter: 1520 | Dens: 0.1055 | Best Dens: 0.1057 | Status: 53/2000
+Iter: 1540 | Dens: 0.1057 | Best Dens: 0.1058 | Status: 14/2000
+Iter: 1560 | Dens: 0.1053 | Best Dens: 0.1058 | Status: 34/2000
+Iter: 1580 | Dens: 0.1056 | Best Dens: 0.1058 | Status: 6/2000
+Iter: 1600 | Dens: 0.1058 | Best Dens: 0.1060 | Status: 10/2000
+Iter: 1620 | Dens: 0.1060 | Best Dens: 0.1060 | Status: 11/2000
+Iter: 1640 | Dens: 0.1060 | Best Dens: 0.1061 | Status: 8/2000
+Iter: 1660 | Dens: 0.1061 | Best Dens: 0.1061 | Status: 28/2000
+Iter: 1680 | Dens: 0.1062 | Best Dens: 0.1062 | Status: 2/2000
+Iter: 1700 | Dens: 0.1063 | Best Dens: 0.1063 | Status: 17/2000
+Iter: 1720 | Dens: 0.1064 | Best Dens: 0.1064 | Status: 6/2000
+Iter: 1740 | Dens: 0.1060 | Best Dens: 0.1064 | Status: 6/2000
+Iter: 1760 | Dens: 0.1066 | Best Dens: 0.1066 | Status: 4/2000
+Iter: 1780 | Dens: 0.1065 | Best Dens: 0.1067 | Status: 10/2000
+Iter: 1800 | Dens: 0.1067 | Best Dens: 0.1067 | Status: 30/2000
+Iter: 1820 | Dens: 0.1070 | Best Dens: 0.1070 | Status: 10/2000
+Iter: 1840 | Dens: 0.1070 | Best Dens: 0.1070 | Status: 3/2000
+Iter: 1860 | Dens: 0.1072 | Best Dens: 0.1072 | Status: 16/2000
+Iter: 1880 | Dens: 0.1072 | Best Dens: 0.1072 | Status: 36/2000
+Iter: 1900 | Dens: 0.1074 | Best Dens: 0.1074 | Status: 0/2000
+Iter: 1920 | Dens: 0.1073 | Best Dens: 0.1074 | Status: 11/2000
+Iter: 1940 | Dens: 0.1072 | Best Dens: 0.1074 | Status: 31/2000
+Iter: 1960 | Dens: 0.1074 | Best Dens: 0.1074 | Status: 51/2000
+Iter: 1980 | Dens: 0.1075 | Best Dens: 0.1075 | Status: 0/2000
+Iter: 2000 | Dens: 0.1071 | Best Dens: 0.1076 | Status: 5/2000
+>> Plot M=6 exported to: .\graphsv4\Opt_Mux_6.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 29.3439 | Density: 0.1076
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 180.0000
+>> Uniformity comparison plot M=6 exported to: .\graphsv4\Uniformity_Compare_Mux_6.png
+>> Gráfico de comparación de esferas M=6 exportado a: .\graphsv4\Sphere_Compare_Mux_6.png
+-------------------- Resumen M=6 --------------------
+  Condición: Inicial: 828.40 | Optimizada: 29.34 | Uniforme: 29.3439
+  Densidad:  Inicial: 0.0923 | Optimizada: 0.1076 | Uniforme: 0.1076
+  RMSE Unif: Inicial: 180.0000 | Optimizada: 180.0000 | Uniforme: 180.0000
+
+Starting Optimization M=7 | Initial Cond: 2993.74 | Initial Density: 0.1075
+------------------------------------------------------------
+Iter: 20 | Dens: 0.1133 | Best Dens: 0.1133 | Status: 0/2000
+Iter: 40 | Dens: 0.1192 | Best Dens: 0.1192 | Status: 1/2000
+Iter: 60 | Dens: 0.1233 | Best Dens: 0.1233 | Status: 0/2000
+Iter: 80 | Dens: 0.1289 | Best Dens: 0.1289 | Status: 0/2000
+Iter: 100 | Dens: 0.1332 | Best Dens: 0.1332 | Status: 0/2000
+Iter: 120 | Dens: 0.1375 | Best Dens: 0.1375 | Status: 0/2000
+Iter: 140 | Dens: 0.1406 | Best Dens: 0.1406 | Status: 0/2000
+Iter: 160 | Dens: 0.1443 | Best Dens: 0.1443 | Status: 0/2000
+Iter: 180 | Dens: 0.1484 | Best Dens: 0.1484 | Status: 0/2000
+Iter: 200 | Dens: 0.1516 | Best Dens: 0.1517 | Status: 1/2000
+Iter: 220 | Dens: 0.1546 | Best Dens: 0.1548 | Status: 1/2000
+Iter: 240 | Dens: 0.1587 | Best Dens: 0.1587 | Status: 0/2000
+Iter: 260 | Dens: 0.1633 | Best Dens: 0.1633 | Status: 0/2000
+Iter: 280 | Dens: 0.1677 | Best Dens: 0.1677 | Status: 0/2000
+Iter: 300 | Dens: 0.1720 | Best Dens: 0.1720 | Status: 0/2000
+Iter: 320 | Dens: 0.1741 | Best Dens: 0.1741 | Status: 2/2000
+Iter: 340 | Dens: 0.1770 | Best Dens: 0.1770 | Status: 0/2000
+Iter: 360 | Dens: 0.1793 | Best Dens: 0.1798 | Status: 1/2000
+Iter: 380 | Dens: 0.1827 | Best Dens: 0.1827 | Status: 1/2000
+Iter: 400 | Dens: 0.1849 | Best Dens: 0.1849 | Status: 0/2000
+Iter: 420 | Dens: 0.1869 | Best Dens: 0.1869 | Status: 0/2000
+Iter: 440 | Dens: 0.1893 | Best Dens: 0.1893 | Status: 1/2000
+Iter: 460 | Dens: 0.1915 | Best Dens: 0.1916 | Status: 3/2000
+Iter: 480 | Dens: 0.1945 | Best Dens: 0.1945 | Status: 0/2000
+Iter: 500 | Dens: 0.1975 | Best Dens: 0.1975 | Status: 0/2000
+Iter: 520 | Dens: 0.1979 | Best Dens: 0.1985 | Status: 5/2000
+Iter: 540 | Dens: 0.1997 | Best Dens: 0.1999 | Status: 3/2000
+Iter: 560 | Dens: 0.2041 | Best Dens: 0.2043 | Status: 2/2000
+Iter: 580 | Dens: 0.2058 | Best Dens: 0.2062 | Status: 1/2000
+Iter: 600 | Dens: 0.2087 | Best Dens: 0.2087 | Status: 0/2000
+Iter: 620 | Dens: 0.2097 | Best Dens: 0.2097 | Status: 9/2000
+Iter: 640 | Dens: 0.2113 | Best Dens: 0.2113 | Status: 4/2000
+Iter: 660 | Dens: 0.2124 | Best Dens: 0.2125 | Status: 1/2000
+Iter: 680 | Dens: 0.2142 | Best Dens: 0.2142 | Status: 0/2000
+Iter: 700 | Dens: 0.2173 | Best Dens: 0.2175 | Status: 5/2000
+Iter: 720 | Dens: 0.2188 | Best Dens: 0.2193 | Status: 4/2000
+Iter: 740 | Dens: 0.2214 | Best Dens: 0.2214 | Status: 0/2000
+Iter: 760 | Dens: 0.2238 | Best Dens: 0.2239 | Status: 4/2000
+Iter: 780 | Dens: 0.2258 | Best Dens: 0.2258 | Status: 2/2000
+Iter: 800 | Dens: 0.2269 | Best Dens: 0.2269 | Status: 0/2000
+Iter: 820 | Dens: 0.2281 | Best Dens: 0.2282 | Status: 1/2000
+Iter: 840 | Dens: 0.2288 | Best Dens: 0.2288 | Status: 4/2000
+Iter: 860 | Dens: 0.2298 | Best Dens: 0.2298 | Status: 0/2000
+Iter: 880 | Dens: 0.2320 | Best Dens: 0.2320 | Status: 0/2000
+Iter: 900 | Dens: 0.2331 | Best Dens: 0.2333 | Status: 4/2000
+Iter: 920 | Dens: 0.2346 | Best Dens: 0.2346 | Status: 0/2000
+Iter: 940 | Dens: 0.2353 | Best Dens: 0.2353 | Status: 0/2000
+Iter: 960 | Dens: 0.2361 | Best Dens: 0.2362 | Status: 3/2000
+Iter: 980 | Dens: 0.2382 | Best Dens: 0.2383 | Status: 1/2000
+Iter: 1000 | Dens: 0.2397 | Best Dens: 0.2401 | Status: 2/2000
+Iter: 1020 | Dens: 0.2423 | Best Dens: 0.2423 | Status: 0/2000
+Iter: 1040 | Dens: 0.2447 | Best Dens: 0.2447 | Status: 0/2000
+Iter: 1060 | Dens: 0.2458 | Best Dens: 0.2458 | Status: 0/2000
+Iter: 1080 | Dens: 0.2461 | Best Dens: 0.2462 | Status: 5/2000
+Iter: 1100 | Dens: 0.2481 | Best Dens: 0.2481 | Status: 0/2000
+Iter: 1120 | Dens: 0.2493 | Best Dens: 0.2493 | Status: 2/2000
+Iter: 1140 | Dens: 0.2514 | Best Dens: 0.2514 | Status: 0/2000
+Iter: 1160 | Dens: 0.2533 | Best Dens: 0.2533 | Status: 0/2000
+Iter: 1180 | Dens: 0.2535 | Best Dens: 0.2544 | Status: 1/2000
+Iter: 1200 | Dens: 0.2556 | Best Dens: 0.2556 | Status: 0/2000
+Iter: 1220 | Dens: 0.2562 | Best Dens: 0.2566 | Status: 4/2000
+Iter: 1240 | Dens: 0.2567 | Best Dens: 0.2570 | Status: 6/2000
+Iter: 1260 | Dens: 0.2572 | Best Dens: 0.2573 | Status: 1/2000
+Iter: 1280 | Dens: 0.2578 | Best Dens: 0.2582 | Status: 2/2000
+Iter: 1300 | Dens: 0.2602 | Best Dens: 0.2602 | Status: 1/2000
+Iter: 1320 | Dens: 0.2607 | Best Dens: 0.2610 | Status: 5/2000
+Iter: 1340 | Dens: 0.2610 | Best Dens: 0.2611 | Status: 12/2000
+Iter: 1360 | Dens: 0.2614 | Best Dens: 0.2616 | Status: 1/2000
+Iter: 1380 | Dens: 0.2628 | Best Dens: 0.2628 | Status: 0/2000
+Iter: 1400 | Dens: 0.2633 | Best Dens: 0.2633 | Status: 0/2000
+Iter: 1420 | Dens: 0.2639 | Best Dens: 0.2641 | Status: 1/2000
+Iter: 1440 | Dens: 0.2645 | Best Dens: 0.2645 | Status: 6/2000
+Iter: 1460 | Dens: 0.2648 | Best Dens: 0.2648 | Status: 0/2000
+Iter: 1480 | Dens: 0.2651 | Best Dens: 0.2651 | Status: 0/2000
+Iter: 1500 | Dens: 0.2646 | Best Dens: 0.2656 | Status: 2/2000
+Iter: 1520 | Dens: 0.2662 | Best Dens: 0.2662 | Status: 0/2000
+Iter: 1540 | Dens: 0.2666 | Best Dens: 0.2668 | Status: 2/2000
+Iter: 1560 | Dens: 0.2680 | Best Dens: 0.2681 | Status: 4/2000
+Iter: 1580 | Dens: 0.2681 | Best Dens: 0.2686 | Status: 3/2000
+Iter: 1600 | Dens: 0.2690 | Best Dens: 0.2690 | Status: 0/2000
+Iter: 1620 | Dens: 0.2695 | Best Dens: 0.2696 | Status: 1/2000
+Iter: 1640 | Dens: 0.2692 | Best Dens: 0.2700 | Status: 3/2000
+Iter: 1660 | Dens: 0.2699 | Best Dens: 0.2705 | Status: 1/2000
+Iter: 1680 | Dens: 0.2710 | Best Dens: 0.2711 | Status: 5/2000
+Iter: 1700 | Dens: 0.2719 | Best Dens: 0.2719 | Status: 0/2000
+Iter: 1720 | Dens: 0.2722 | Best Dens: 0.2722 | Status: 0/2000
+Iter: 1740 | Dens: 0.2730 | Best Dens: 0.2730 | Status: 0/2000
+Iter: 1760 | Dens: 0.2735 | Best Dens: 0.2735 | Status: 2/2000
+Iter: 1780 | Dens: 0.2734 | Best Dens: 0.2737 | Status: 2/2000
+Iter: 1800 | Dens: 0.2739 | Best Dens: 0.2739 | Status: 0/2000
+Iter: 1820 | Dens: 0.2738 | Best Dens: 0.2739 | Status: 20/2000
+Iter: 1840 | Dens: 0.2739 | Best Dens: 0.2742 | Status: 10/2000
+Iter: 1860 | Dens: 0.2743 | Best Dens: 0.2745 | Status: 6/2000
+Iter: 1880 | Dens: 0.2745 | Best Dens: 0.2752 | Status: 3/2000
+Iter: 1900 | Dens: 0.2753 | Best Dens: 0.2757 | Status: 12/2000
+Iter: 1920 | Dens: 0.2759 | Best Dens: 0.2762 | Status: 3/2000
+Iter: 1940 | Dens: 0.2760 | Best Dens: 0.2766 | Status: 1/2000
+Iter: 1960 | Dens: 0.2773 | Best Dens: 0.2774 | Status: 4/2000
+Iter: 1980 | Dens: 0.2777 | Best Dens: 0.2777 | Status: 0/2000
+Iter: 2000 | Dens: 0.2776 | Best Dens: 0.2784 | Status: 5/2000
+>> Plot M=7 exported to: .\graphsv4\Opt_Mux_7.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 20.9135 | Density: 0.2784
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 210.0000
+>> Uniformity comparison plot M=7 exported to: .\graphsv4\Uniformity_Compare_Mux_7.png
+>> Gráfico de comparación de esferas M=7 exportado a: .\graphsv4\Sphere_Compare_Mux_7.png
+-------------------- Resumen M=7 --------------------
+  Condición: Inicial: 2993.74 | Optimizada: 20.91 | Uniforme: 20.9135
+  Densidad:  Inicial: 0.1075 | Optimizada: 0.2784 | Uniforme: 0.2784
+  RMSE Unif: Inicial: 210.0000 | Optimizada: 210.0000 | Uniforme: 210.0000
+
+Starting Optimization M=8 | Initial Cond: 972.45 | Initial Density: 0.1229
+------------------------------------------------------------
+Iter: 20 | Dens: 0.1265 | Best Dens: 0.1265 | Status: 1/2000
+Iter: 40 | Dens: 0.1298 | Best Dens: 0.1298 | Status: 0/2000
+Iter: 60 | Dens: 0.1328 | Best Dens: 0.1329 | Status: 2/2000
+Iter: 80 | Dens: 0.1359 | Best Dens: 0.1359 | Status: 0/2000
+Iter: 100 | Dens: 0.1387 | Best Dens: 0.1387 | Status: 2/2000
+Iter: 120 | Dens: 0.1409 | Best Dens: 0.1410 | Status: 3/2000
+Iter: 140 | Dens: 0.1452 | Best Dens: 0.1452 | Status: 0/2000
+Iter: 160 | Dens: 0.1471 | Best Dens: 0.1471 | Status: 0/2000
+Iter: 180 | Dens: 0.1492 | Best Dens: 0.1493 | Status: 2/2000
+Iter: 200 | Dens: 0.1515 | Best Dens: 0.1518 | Status: 3/2000
+Iter: 220 | Dens: 0.1539 | Best Dens: 0.1539 | Status: 0/2000
+Iter: 240 | Dens: 0.1553 | Best Dens: 0.1553 | Status: 0/2000
+Iter: 260 | Dens: 0.1583 | Best Dens: 0.1583 | Status: 0/2000
+Iter: 280 | Dens: 0.1603 | Best Dens: 0.1603 | Status: 0/2000
+Iter: 300 | Dens: 0.1624 | Best Dens: 0.1624 | Status: 2/2000
+Iter: 320 | Dens: 0.1646 | Best Dens: 0.1648 | Status: 2/2000
+Iter: 340 | Dens: 0.1668 | Best Dens: 0.1668 | Status: 0/2000
+Iter: 360 | Dens: 0.1682 | Best Dens: 0.1682 | Status: 0/2000
+Iter: 380 | Dens: 0.1697 | Best Dens: 0.1698 | Status: 2/2000
+Iter: 400 | Dens: 0.1699 | Best Dens: 0.1700 | Status: 10/2000
+Iter: 420 | Dens: 0.1712 | Best Dens: 0.1712 | Status: 7/2000
+Iter: 440 | Dens: 0.1731 | Best Dens: 0.1731 | Status: 1/2000
+Iter: 460 | Dens: 0.1748 | Best Dens: 0.1748 | Status: 0/2000
+Iter: 480 | Dens: 0.1757 | Best Dens: 0.1758 | Status: 1/2000
+Iter: 500 | Dens: 0.1784 | Best Dens: 0.1784 | Status: 0/2000
+Iter: 520 | Dens: 0.1796 | Best Dens: 0.1798 | Status: 1/2000
+Iter: 540 | Dens: 0.1805 | Best Dens: 0.1806 | Status: 1/2000
+Iter: 560 | Dens: 0.1824 | Best Dens: 0.1825 | Status: 3/2000
+Iter: 580 | Dens: 0.1843 | Best Dens: 0.1843 | Status: 0/2000
+Iter: 600 | Dens: 0.1856 | Best Dens: 0.1856 | Status: 0/2000
+Iter: 620 | Dens: 0.1869 | Best Dens: 0.1870 | Status: 1/2000
+Iter: 640 | Dens: 0.1887 | Best Dens: 0.1887 | Status: 0/2000
+Iter: 660 | Dens: 0.1902 | Best Dens: 0.1904 | Status: 3/2000
+Iter: 680 | Dens: 0.1917 | Best Dens: 0.1917 | Status: 1/2000
+Iter: 700 | Dens: 0.1935 | Best Dens: 0.1936 | Status: 1/2000
+Iter: 720 | Dens: 0.1946 | Best Dens: 0.1946 | Status: 0/2000
+Iter: 740 | Dens: 0.1959 | Best Dens: 0.1959 | Status: 0/2000
+Iter: 760 | Dens: 0.1963 | Best Dens: 0.1966 | Status: 9/2000
+Iter: 780 | Dens: 0.1972 | Best Dens: 0.1972 | Status: 7/2000
+Iter: 800 | Dens: 0.1975 | Best Dens: 0.1975 | Status: 3/2000
+Iter: 820 | Dens: 0.1993 | Best Dens: 0.1993 | Status: 0/2000
+Iter: 840 | Dens: 0.1997 | Best Dens: 0.1999 | Status: 2/2000
+Iter: 860 | Dens: 0.2014 | Best Dens: 0.2014 | Status: 0/2000
+Iter: 880 | Dens: 0.2028 | Best Dens: 0.2031 | Status: 2/2000
+Iter: 900 | Dens: 0.2041 | Best Dens: 0.2041 | Status: 1/2000
+Iter: 920 | Dens: 0.2055 | Best Dens: 0.2057 | Status: 3/2000
+Iter: 940 | Dens: 0.2061 | Best Dens: 0.2061 | Status: 1/2000
+Iter: 960 | Dens: 0.2063 | Best Dens: 0.2064 | Status: 1/2000
+Iter: 980 | Dens: 0.2073 | Best Dens: 0.2073 | Status: 0/2000
+Iter: 1000 | Dens: 0.2081 | Best Dens: 0.2083 | Status: 2/2000
+Iter: 1020 | Dens: 0.2086 | Best Dens: 0.2090 | Status: 4/2000
+Iter: 1040 | Dens: 0.2104 | Best Dens: 0.2104 | Status: 0/2000
+Iter: 1060 | Dens: 0.2120 | Best Dens: 0.2120 | Status: 2/2000
+Iter: 1080 | Dens: 0.2127 | Best Dens: 0.2128 | Status: 1/2000
+Iter: 1100 | Dens: 0.2136 | Best Dens: 0.2136 | Status: 2/2000
+Iter: 1120 | Dens: 0.2146 | Best Dens: 0.2146 | Status: 1/2000
+Iter: 1140 | Dens: 0.2149 | Best Dens: 0.2152 | Status: 2/2000
+Iter: 1160 | Dens: 0.2162 | Best Dens: 0.2166 | Status: 1/2000
+Iter: 1180 | Dens: 0.2183 | Best Dens: 0.2184 | Status: 4/2000
+Iter: 1200 | Dens: 0.2196 | Best Dens: 0.2197 | Status: 1/2000
+Iter: 1220 | Dens: 0.2199 | Best Dens: 0.2199 | Status: 1/2000
+Iter: 1240 | Dens: 0.2201 | Best Dens: 0.2203 | Status: 4/2000
+Iter: 1260 | Dens: 0.2211 | Best Dens: 0.2214 | Status: 4/2000
+Iter: 1280 | Dens: 0.2214 | Best Dens: 0.2214 | Status: 24/2000
+Iter: 1300 | Dens: 0.2219 | Best Dens: 0.2220 | Status: 10/2000
+Iter: 1320 | Dens: 0.2229 | Best Dens: 0.2229 | Status: 2/2000
+Iter: 1340 | Dens: 0.2227 | Best Dens: 0.2229 | Status: 22/2000
+Iter: 1360 | Dens: 0.2234 | Best Dens: 0.2234 | Status: 0/2000
+Iter: 1380 | Dens: 0.2230 | Best Dens: 0.2238 | Status: 2/2000
+Iter: 1400 | Dens: 0.2239 | Best Dens: 0.2243 | Status: 9/2000
+Iter: 1420 | Dens: 0.2248 | Best Dens: 0.2250 | Status: 15/2000
+Iter: 1440 | Dens: 0.2252 | Best Dens: 0.2256 | Status: 9/2000
+Iter: 1460 | Dens: 0.2261 | Best Dens: 0.2262 | Status: 10/2000
+Iter: 1480 | Dens: 0.2265 | Best Dens: 0.2266 | Status: 3/2000
+Iter: 1500 | Dens: 0.2266 | Best Dens: 0.2269 | Status: 3/2000
+Iter: 1520 | Dens: 0.2277 | Best Dens: 0.2277 | Status: 3/2000
+Iter: 1540 | Dens: 0.2281 | Best Dens: 0.2287 | Status: 4/2000
+Iter: 1560 | Dens: 0.2299 | Best Dens: 0.2300 | Status: 4/2000
+Iter: 1580 | Dens: 0.2298 | Best Dens: 0.2302 | Status: 7/2000
+Iter: 1600 | Dens: 0.2313 | Best Dens: 0.2313 | Status: 7/2000
+Iter: 1620 | Dens: 0.2315 | Best Dens: 0.2319 | Status: 4/2000
+Iter: 1640 | Dens: 0.2325 | Best Dens: 0.2326 | Status: 2/2000
+Iter: 1660 | Dens: 0.2329 | Best Dens: 0.2329 | Status: 0/2000
+Iter: 1680 | Dens: 0.2328 | Best Dens: 0.2333 | Status: 4/2000
+Iter: 1700 | Dens: 0.2337 | Best Dens: 0.2338 | Status: 16/2000
+Iter: 1720 | Dens: 0.2335 | Best Dens: 0.2340 | Status: 1/2000
+Iter: 1740 | Dens: 0.2348 | Best Dens: 0.2349 | Status: 6/2000
+Iter: 1760 | Dens: 0.2347 | Best Dens: 0.2350 | Status: 10/2000
+Iter: 1780 | Dens: 0.2359 | Best Dens: 0.2361 | Status: 2/2000
+Iter: 1800 | Dens: 0.2369 | Best Dens: 0.2371 | Status: 3/2000
+Iter: 1820 | Dens: 0.2376 | Best Dens: 0.2377 | Status: 3/2000
+Iter: 1840 | Dens: 0.2385 | Best Dens: 0.2388 | Status: 1/2000
+Iter: 1860 | Dens: 0.2390 | Best Dens: 0.2393 | Status: 16/2000
+Iter: 1880 | Dens: 0.2404 | Best Dens: 0.2404 | Status: 6/2000
+Iter: 1900 | Dens: 0.2411 | Best Dens: 0.2411 | Status: 0/2000
+Iter: 1920 | Dens: 0.2414 | Best Dens: 0.2417 | Status: 5/2000
+Iter: 1940 | Dens: 0.2418 | Best Dens: 0.2419 | Status: 7/2000
+Iter: 1960 | Dens: 0.2420 | Best Dens: 0.2420 | Status: 0/2000
+Iter: 1980 | Dens: 0.2421 | Best Dens: 0.2423 | Status: 6/2000
+Iter: 2000 | Dens: 0.2422 | Best Dens: 0.2428 | Status: 2/2000
+>> Plot M=8 exported to: .\graphsv4\Opt_Mux_8.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 20.1121 | Density: 0.2265
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 240.0001
+>> Uniformity comparison plot M=8 exported to: .\graphsv4\Uniformity_Compare_Mux_8.png
+>> Gráfico de comparación de esferas M=8 exportado a: .\graphsv4\Sphere_Compare_Mux_8.png
+-------------------- Resumen M=8 --------------------
+  Condición: Inicial: 972.45 | Optimizada: 22.13 | Uniforme: 20.1121
+  Densidad:  Inicial: 0.1229 | Optimizada: 0.2428 | Uniforme: 0.2265
+  RMSE Unif: Inicial: 240.0000 | Optimizada: 240.0195 | Uniforme: 240.0001
+
+Starting Optimization M=9 | Initial Cond: 3357.80 | Initial Density: 0.1383
+------------------------------------------------------------
+Iter: 20 | Dens: 0.1407 | Best Dens: 0.1407 | Status: 0/2000
+Iter: 40 | Dens: 0.1437 | Best Dens: 0.1437 | Status: 0/2000
+Iter: 60 | Dens: 0.1465 | Best Dens: 0.1465 | Status: 0/2000
+Iter: 80 | Dens: 0.1497 | Best Dens: 0.1497 | Status: 0/2000
+Iter: 100 | Dens: 0.1512 | Best Dens: 0.1512 | Status: 0/2000
+Iter: 120 | Dens: 0.1535 | Best Dens: 0.1535 | Status: 0/2000
+Iter: 140 | Dens: 0.1565 | Best Dens: 0.1565 | Status: 0/2000
+Iter: 160 | Dens: 0.1583 | Best Dens: 0.1584 | Status: 1/2000
+Iter: 180 | Dens: 0.1598 | Best Dens: 0.1598 | Status: 1/2000
+Iter: 200 | Dens: 0.1626 | Best Dens: 0.1626 | Status: 2/2000
+Iter: 220 | Dens: 0.1644 | Best Dens: 0.1644 | Status: 0/2000
+Iter: 240 | Dens: 0.1658 | Best Dens: 0.1658 | Status: 0/2000
+Iter: 260 | Dens: 0.1674 | Best Dens: 0.1677 | Status: 1/2000
+Iter: 280 | Dens: 0.1697 | Best Dens: 0.1698 | Status: 2/2000
+Iter: 300 | Dens: 0.1712 | Best Dens: 0.1713 | Status: 5/2000
+Iter: 320 | Dens: 0.1734 | Best Dens: 0.1734 | Status: 0/2000
+Iter: 340 | Dens: 0.1745 | Best Dens: 0.1745 | Status: 0/2000
+Iter: 360 | Dens: 0.1762 | Best Dens: 0.1763 | Status: 2/2000
+Iter: 380 | Dens: 0.1779 | Best Dens: 0.1780 | Status: 4/2000
+Iter: 400 | Dens: 0.1785 | Best Dens: 0.1786 | Status: 1/2000
+Iter: 420 | Dens: 0.1812 | Best Dens: 0.1813 | Status: 4/2000
+Iter: 440 | Dens: 0.1843 | Best Dens: 0.1843 | Status: 0/2000
+Iter: 460 | Dens: 0.1849 | Best Dens: 0.1850 | Status: 1/2000
+Iter: 480 | Dens: 0.1851 | Best Dens: 0.1854 | Status: 3/2000
+Iter: 500 | Dens: 0.1869 | Best Dens: 0.1871 | Status: 7/2000
+Iter: 520 | Dens: 0.1891 | Best Dens: 0.1893 | Status: 1/2000
+Iter: 540 | Dens: 0.1895 | Best Dens: 0.1897 | Status: 13/2000
+Iter: 560 | Dens: 0.1913 | Best Dens: 0.1913 | Status: 5/2000
+Iter: 580 | Dens: 0.1937 | Best Dens: 0.1938 | Status: 2/2000
+Iter: 600 | Dens: 0.1947 | Best Dens: 0.1949 | Status: 3/2000
+Iter: 620 | Dens: 0.1960 | Best Dens: 0.1960 | Status: 0/2000
+Iter: 640 | Dens: 0.1969 | Best Dens: 0.1972 | Status: 2/2000
+Iter: 660 | Dens: 0.1977 | Best Dens: 0.1978 | Status: 7/2000
+Iter: 680 | Dens: 0.1987 | Best Dens: 0.1987 | Status: 0/2000
+Iter: 700 | Dens: 0.2000 | Best Dens: 0.2000 | Status: 1/2000
+Iter: 720 | Dens: 0.2010 | Best Dens: 0.2012 | Status: 2/2000
+Iter: 740 | Dens: 0.2018 | Best Dens: 0.2018 | Status: 0/2000
+Iter: 760 | Dens: 0.2022 | Best Dens: 0.2024 | Status: 1/2000
+Iter: 780 | Dens: 0.2030 | Best Dens: 0.2033 | Status: 3/2000
+Iter: 800 | Dens: 0.2041 | Best Dens: 0.2042 | Status: 1/2000
+Iter: 820 | Dens: 0.2053 | Best Dens: 0.2054 | Status: 7/2000
+Iter: 840 | Dens: 0.2064 | Best Dens: 0.2066 | Status: 5/2000
+Iter: 860 | Dens: 0.2071 | Best Dens: 0.2075 | Status: 5/2000
+Iter: 880 | Dens: 0.2077 | Best Dens: 0.2082 | Status: 3/2000
+Iter: 900 | Dens: 0.2087 | Best Dens: 0.2089 | Status: 1/2000
+Iter: 920 | Dens: 0.2094 | Best Dens: 0.2094 | Status: 0/2000
+Iter: 940 | Dens: 0.2096 | Best Dens: 0.2098 | Status: 3/2000
+Iter: 960 | Dens: 0.2104 | Best Dens: 0.2106 | Status: 2/2000
+Iter: 980 | Dens: 0.2119 | Best Dens: 0.2119 | Status: 1/2000
+Iter: 1000 | Dens: 0.2133 | Best Dens: 0.2133 | Status: 0/2000
+Iter: 1020 | Dens: 0.2140 | Best Dens: 0.2141 | Status: 2/2000
+Iter: 1040 | Dens: 0.2145 | Best Dens: 0.2148 | Status: 6/2000
+Iter: 1060 | Dens: 0.2150 | Best Dens: 0.2152 | Status: 1/2000
+Iter: 1080 | Dens: 0.2159 | Best Dens: 0.2163 | Status: 2/2000
+Iter: 1100 | Dens: 0.2177 | Best Dens: 0.2178 | Status: 6/2000
+Iter: 1120 | Dens: 0.2183 | Best Dens: 0.2185 | Status: 4/2000
+Iter: 1140 | Dens: 0.2201 | Best Dens: 0.2203 | Status: 3/2000
+Iter: 1160 | Dens: 0.2205 | Best Dens: 0.2206 | Status: 11/2000
+Iter: 1180 | Dens: 0.2213 | Best Dens: 0.2213 | Status: 0/2000
+Iter: 1200 | Dens: 0.2213 | Best Dens: 0.2217 | Status: 5/2000
+Iter: 1220 | Dens: 0.2221 | Best Dens: 0.2223 | Status: 2/2000
+Iter: 1240 | Dens: 0.2236 | Best Dens: 0.2240 | Status: 2/2000
+Iter: 1260 | Dens: 0.2242 | Best Dens: 0.2245 | Status: 2/2000
+Iter: 1280 | Dens: 0.2246 | Best Dens: 0.2247 | Status: 6/2000
+Iter: 1300 | Dens: 0.2258 | Best Dens: 0.2261 | Status: 3/2000
+Iter: 1320 | Dens: 0.2276 | Best Dens: 0.2276 | Status: 3/2000
+Iter: 1340 | Dens: 0.2284 | Best Dens: 0.2286 | Status: 4/2000
+Iter: 1360 | Dens: 0.2289 | Best Dens: 0.2293 | Status: 5/2000
+Iter: 1380 | Dens: 0.2295 | Best Dens: 0.2297 | Status: 6/2000
+Iter: 1400 | Dens: 0.2308 | Best Dens: 0.2308 | Status: 0/2000
+Iter: 1420 | Dens: 0.2312 | Best Dens: 0.2312 | Status: 1/2000
+Iter: 1440 | Dens: 0.2318 | Best Dens: 0.2318 | Status: 0/2000
+Iter: 1460 | Dens: 0.2321 | Best Dens: 0.2323 | Status: 8/2000
+Iter: 1480 | Dens: 0.2338 | Best Dens: 0.2338 | Status: 0/2000
+Iter: 1500 | Dens: 0.2338 | Best Dens: 0.2341 | Status: 6/2000
+Iter: 1520 | Dens: 0.2352 | Best Dens: 0.2352 | Status: 0/2000
+Iter: 1540 | Dens: 0.2353 | Best Dens: 0.2357 | Status: 19/2000
+Iter: 1560 | Dens: 0.2356 | Best Dens: 0.2358 | Status: 10/2000
+Iter: 1580 | Dens: 0.2371 | Best Dens: 0.2371 | Status: 2/2000
+Iter: 1600 | Dens: 0.2384 | Best Dens: 0.2384 | Status: 0/2000
+Iter: 1620 | Dens: 0.2386 | Best Dens: 0.2389 | Status: 3/2000
+Iter: 1640 | Dens: 0.2389 | Best Dens: 0.2393 | Status: 1/2000
+Iter: 1660 | Dens: 0.2401 | Best Dens: 0.2402 | Status: 5/2000
+Iter: 1680 | Dens: 0.2403 | Best Dens: 0.2406 | Status: 2/2000
+Iter: 1700 | Dens: 0.2408 | Best Dens: 0.2413 | Status: 1/2000
+Iter: 1720 | Dens: 0.2428 | Best Dens: 0.2431 | Status: 1/2000
+Iter: 1740 | Dens: 0.2435 | Best Dens: 0.2437 | Status: 3/2000
+Iter: 1760 | Dens: 0.2443 | Best Dens: 0.2446 | Status: 11/2000
+Iter: 1780 | Dens: 0.2440 | Best Dens: 0.2448 | Status: 3/2000
+Iter: 1800 | Dens: 0.2454 | Best Dens: 0.2454 | Status: 5/2000
+Iter: 1820 | Dens: 0.2456 | Best Dens: 0.2458 | Status: 2/2000
+Iter: 1840 | Dens: 0.2466 | Best Dens: 0.2467 | Status: 6/2000
+Iter: 1860 | Dens: 0.2471 | Best Dens: 0.2472 | Status: 6/2000
+Iter: 1880 | Dens: 0.2481 | Best Dens: 0.2482 | Status: 1/2000
+Iter: 1900 | Dens: 0.2484 | Best Dens: 0.2485 | Status: 1/2000
+Iter: 1920 | Dens: 0.2492 | Best Dens: 0.2493 | Status: 1/2000
+Iter: 1940 | Dens: 0.2497 | Best Dens: 0.2498 | Status: 2/2000
+Iter: 1960 | Dens: 0.2507 | Best Dens: 0.2509 | Status: 7/2000
+Iter: 1980 | Dens: 0.2507 | Best Dens: 0.2511 | Status: 9/2000
+Iter: 2000 | Dens: 0.2515 | Best Dens: 0.2516 | Status: 4/2000
+>> Plot M=9 exported to: .\graphsv4\Opt_Mux_9.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 25.0874 | Density: 0.2361
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 270.0000
+>> Uniformity comparison plot M=9 exported to: .\graphsv4\Uniformity_Compare_Mux_9.png
+>> Gráfico de comparación de esferas M=9 exportado a: .\graphsv4\Sphere_Compare_Mux_9.png
+-------------------- Resumen M=9 --------------------
+  Condición: Inicial: 3357.80 | Optimizada: 28.20 | Uniforme: 25.0874
+  Densidad:  Inicial: 0.1383 | Optimizada: 0.2516 | Uniforme: 0.2361
+  RMSE Unif: Inicial: 270.0000 | Optimizada: 270.0123 | Uniforme: 270.0000
+
+Starting Optimization M=10 | Initial Cond: 875.60 | Initial Density: 0.1536
+------------------------------------------------------------
+Iter: 20 | Dens: 0.1571 | Best Dens: 0.1571 | Status: 0/2000
+Iter: 40 | Dens: 0.1596 | Best Dens: 0.1596 | Status: 0/2000
+Iter: 60 | Dens: 0.1608 | Best Dens: 0.1608 | Status: 1/2000
+Iter: 80 | Dens: 0.1625 | Best Dens: 0.1625 | Status: 5/2000
+Iter: 100 | Dens: 0.1643 | Best Dens: 0.1643 | Status: 3/2000
+Iter: 120 | Dens: 0.1655 | Best Dens: 0.1656 | Status: 3/2000
+Iter: 140 | Dens: 0.1686 | Best Dens: 0.1686 | Status: 0/2000
+Iter: 160 | Dens: 0.1703 | Best Dens: 0.1703 | Status: 0/2000
+Iter: 180 | Dens: 0.1719 | Best Dens: 0.1721 | Status: 1/2000
+Iter: 200 | Dens: 0.1734 | Best Dens: 0.1735 | Status: 4/2000
+Iter: 220 | Dens: 0.1754 | Best Dens: 0.1755 | Status: 4/2000
+Iter: 240 | Dens: 0.1775 | Best Dens: 0.1776 | Status: 2/2000
+Iter: 260 | Dens: 0.1787 | Best Dens: 0.1787 | Status: 1/2000
+Iter: 280 | Dens: 0.1790 | Best Dens: 0.1792 | Status: 11/2000
+Iter: 300 | Dens: 0.1802 | Best Dens: 0.1803 | Status: 5/2000
+Iter: 320 | Dens: 0.1812 | Best Dens: 0.1816 | Status: 1/2000
+Iter: 340 | Dens: 0.1825 | Best Dens: 0.1825 | Status: 2/2000
+Iter: 360 | Dens: 0.1843 | Best Dens: 0.1844 | Status: 1/2000
+Iter: 380 | Dens: 0.1852 | Best Dens: 0.1852 | Status: 2/2000
+Iter: 400 | Dens: 0.1859 | Best Dens: 0.1860 | Status: 1/2000
+Iter: 420 | Dens: 0.1868 | Best Dens: 0.1868 | Status: 0/2000
+Iter: 440 | Dens: 0.1873 | Best Dens: 0.1873 | Status: 0/2000
+Iter: 460 | Dens: 0.1879 | Best Dens: 0.1880 | Status: 2/2000
+Iter: 480 | Dens: 0.1888 | Best Dens: 0.1888 | Status: 6/2000
+Iter: 500 | Dens: 0.1889 | Best Dens: 0.1890 | Status: 8/2000
+Iter: 520 | Dens: 0.1896 | Best Dens: 0.1898 | Status: 12/2000
+Iter: 540 | Dens: 0.1916 | Best Dens: 0.1918 | Status: 2/2000
+Iter: 560 | Dens: 0.1931 | Best Dens: 0.1931 | Status: 0/2000
+Iter: 580 | Dens: 0.1950 | Best Dens: 0.1950 | Status: 1/2000
+Iter: 600 | Dens: 0.1964 | Best Dens: 0.1965 | Status: 4/2000
+Iter: 620 | Dens: 0.1975 | Best Dens: 0.1975 | Status: 0/2000
+Iter: 640 | Dens: 0.1983 | Best Dens: 0.1984 | Status: 1/2000
+Iter: 660 | Dens: 0.1994 | Best Dens: 0.1994 | Status: 1/2000
+Iter: 680 | Dens: 0.2011 | Best Dens: 0.2013 | Status: 2/2000
+Iter: 700 | Dens: 0.2020 | Best Dens: 0.2023 | Status: 1/2000
+Iter: 720 | Dens: 0.2032 | Best Dens: 0.2033 | Status: 3/2000
+Iter: 740 | Dens: 0.2042 | Best Dens: 0.2042 | Status: 2/2000
+Iter: 760 | Dens: 0.2046 | Best Dens: 0.2046 | Status: 5/2000
+Iter: 780 | Dens: 0.2045 | Best Dens: 0.2048 | Status: 7/2000
+Iter: 800 | Dens: 0.2052 | Best Dens: 0.2055 | Status: 6/2000
+Iter: 820 | Dens: 0.2064 | Best Dens: 0.2066 | Status: 3/2000
+Iter: 840 | Dens: 0.2072 | Best Dens: 0.2074 | Status: 2/2000
+Iter: 860 | Dens: 0.2078 | Best Dens: 0.2078 | Status: 5/2000
+Iter: 880 | Dens: 0.2086 | Best Dens: 0.2088 | Status: 1/2000
+Iter: 900 | Dens: 0.2098 | Best Dens: 0.2099 | Status: 3/2000
+Iter: 920 | Dens: 0.2105 | Best Dens: 0.2105 | Status: 4/2000
+Iter: 940 | Dens: 0.2122 | Best Dens: 0.2124 | Status: 1/2000
+Iter: 960 | Dens: 0.2131 | Best Dens: 0.2133 | Status: 3/2000
+Iter: 980 | Dens: 0.2143 | Best Dens: 0.2143 | Status: 0/2000
+Iter: 1000 | Dens: 0.2152 | Best Dens: 0.2153 | Status: 1/2000
+Iter: 1020 | Dens: 0.2163 | Best Dens: 0.2165 | Status: 4/2000
+Iter: 1040 | Dens: 0.2166 | Best Dens: 0.2168 | Status: 3/2000
+Iter: 1060 | Dens: 0.2165 | Best Dens: 0.2170 | Status: 4/2000
+Iter: 1080 | Dens: 0.2175 | Best Dens: 0.2176 | Status: 1/2000
+Iter: 1100 | Dens: 0.2185 | Best Dens: 0.2186 | Status: 5/2000
+Iter: 1120 | Dens: 0.2190 | Best Dens: 0.2192 | Status: 7/2000
+Iter: 1140 | Dens: 0.2194 | Best Dens: 0.2194 | Status: 3/2000
+Iter: 1160 | Dens: 0.2211 | Best Dens: 0.2212 | Status: 2/2000
+Iter: 1180 | Dens: 0.2215 | Best Dens: 0.2215 | Status: 6/2000
+Iter: 1200 | Dens: 0.2220 | Best Dens: 0.2221 | Status: 1/2000
+Iter: 1220 | Dens: 0.2222 | Best Dens: 0.2225 | Status: 15/2000
+Iter: 1240 | Dens: 0.2226 | Best Dens: 0.2227 | Status: 4/2000
+Iter: 1260 | Dens: 0.2230 | Best Dens: 0.2230 | Status: 0/2000
+Iter: 1280 | Dens: 0.2232 | Best Dens: 0.2234 | Status: 4/2000
+Iter: 1300 | Dens: 0.2246 | Best Dens: 0.2248 | Status: 1/2000
+Iter: 1320 | Dens: 0.2248 | Best Dens: 0.2251 | Status: 9/2000
+Iter: 1340 | Dens: 0.2252 | Best Dens: 0.2255 | Status: 6/2000
+Iter: 1360 | Dens: 0.2262 | Best Dens: 0.2264 | Status: 4/2000
+Iter: 1380 | Dens: 0.2263 | Best Dens: 0.2266 | Status: 3/2000
+Iter: 1400 | Dens: 0.2272 | Best Dens: 0.2273 | Status: 3/2000
+Iter: 1420 | Dens: 0.2278 | Best Dens: 0.2281 | Status: 6/2000
+Iter: 1440 | Dens: 0.2283 | Best Dens: 0.2283 | Status: 0/2000
+Iter: 1460 | Dens: 0.2289 | Best Dens: 0.2289 | Status: 0/2000
+Iter: 1480 | Dens: 0.2298 | Best Dens: 0.2302 | Status: 2/2000
+Iter: 1500 | Dens: 0.2302 | Best Dens: 0.2304 | Status: 4/2000
+Iter: 1520 | Dens: 0.2308 | Best Dens: 0.2312 | Status: 3/2000
+Iter: 1540 | Dens: 0.2313 | Best Dens: 0.2315 | Status: 5/2000
+Iter: 1560 | Dens: 0.2316 | Best Dens: 0.2316 | Status: 0/2000
+Iter: 1580 | Dens: 0.2315 | Best Dens: 0.2318 | Status: 6/2000
+Iter: 1600 | Dens: 0.2320 | Best Dens: 0.2320 | Status: 14/2000
+Iter: 1620 | Dens: 0.2332 | Best Dens: 0.2333 | Status: 4/2000
+Iter: 1640 | Dens: 0.2348 | Best Dens: 0.2348 | Status: 0/2000
+Iter: 1660 | Dens: 0.2347 | Best Dens: 0.2350 | Status: 2/2000
+Iter: 1680 | Dens: 0.2356 | Best Dens: 0.2357 | Status: 1/2000
+Iter: 1700 | Dens: 0.2361 | Best Dens: 0.2361 | Status: 0/2000
+Iter: 1720 | Dens: 0.2367 | Best Dens: 0.2367 | Status: 3/2000
+Iter: 1740 | Dens: 0.2381 | Best Dens: 0.2381 | Status: 3/2000
+Iter: 1760 | Dens: 0.2391 | Best Dens: 0.2391 | Status: 0/2000
+Iter: 1780 | Dens: 0.2401 | Best Dens: 0.2401 | Status: 0/2000
+Iter: 1800 | Dens: 0.2406 | Best Dens: 0.2411 | Status: 1/2000
+Iter: 1820 | Dens: 0.2411 | Best Dens: 0.2416 | Status: 4/2000
+Iter: 1840 | Dens: 0.2422 | Best Dens: 0.2422 | Status: 0/2000
+Iter: 1860 | Dens: 0.2428 | Best Dens: 0.2430 | Status: 1/2000
+Iter: 1880 | Dens: 0.2431 | Best Dens: 0.2431 | Status: 5/2000
+Iter: 1900 | Dens: 0.2436 | Best Dens: 0.2440 | Status: 2/2000
+Iter: 1920 | Dens: 0.2440 | Best Dens: 0.2444 | Status: 4/2000
+Iter: 1940 | Dens: 0.2445 | Best Dens: 0.2448 | Status: 2/2000
+Iter: 1960 | Dens: 0.2446 | Best Dens: 0.2449 | Status: 2/2000
+Iter: 1980 | Dens: 0.2453 | Best Dens: 0.2458 | Status: 1/2000
+Iter: 2000 | Dens: 0.2459 | Best Dens: 0.2460 | Status: 16/2000
+>> Plot M=10 exported to: .\graphsv4\Opt_Mux_10.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 32.0943 | Density: 0.2338
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 300.0000
+>> Uniformity comparison plot M=10 exported to: .\graphsv4\Uniformity_Compare_Mux_10.png
+>> Gráfico de comparación de esferas M=10 exportado a: .\graphsv4\Sphere_Compare_Mux_10.png
+-------------------- Resumen M=10 --------------------
+  Condición: Inicial: 875.60 | Optimizada: 36.35 | Uniforme: 32.0943
+  Densidad:  Inicial: 0.1536 | Optimizada: 0.2460 | Uniforme: 0.2338
+  RMSE Unif: Inicial: 300.0000 | Optimizada: 300.0218 | Uniforme: 300.0000
+
+Starting Optimization M=11 | Initial Cond: 11551.06 | Initial Density: 0.1689
+------------------------------------------------------------
+Iter: 20 | Dens: 0.1718 | Best Dens: 0.1718 | Status: 1/2000
+Iter: 40 | Dens: 0.1728 | Best Dens: 0.1728 | Status: 0/2000
+Iter: 60 | Dens: 0.1748 | Best Dens: 0.1748 | Status: 2/2000
+Iter: 80 | Dens: 0.1783 | Best Dens: 0.1784 | Status: 2/2000
+Iter: 100 | Dens: 0.1795 | Best Dens: 0.1795 | Status: 0/2000
+Iter: 120 | Dens: 0.1816 | Best Dens: 0.1816 | Status: 1/2000
+Iter: 140 | Dens: 0.1832 | Best Dens: 0.1834 | Status: 3/2000
+Iter: 160 | Dens: 0.1847 | Best Dens: 0.1848 | Status: 2/2000
+Iter: 180 | Dens: 0.1858 | Best Dens: 0.1858 | Status: 3/2000
+Iter: 200 | Dens: 0.1871 | Best Dens: 0.1871 | Status: 4/2000
+Iter: 220 | Dens: 0.1894 | Best Dens: 0.1894 | Status: 0/2000
+Iter: 240 | Dens: 0.1909 | Best Dens: 0.1910 | Status: 1/2000
+Iter: 260 | Dens: 0.1924 | Best Dens: 0.1924 | Status: 1/2000
+Iter: 280 | Dens: 0.1933 | Best Dens: 0.1934 | Status: 7/2000
+Iter: 300 | Dens: 0.1947 | Best Dens: 0.1947 | Status: 0/2000
+Iter: 320 | Dens: 0.1956 | Best Dens: 0.1956 | Status: 0/2000
+Iter: 340 | Dens: 0.1960 | Best Dens: 0.1962 | Status: 8/2000
+Iter: 360 | Dens: 0.1970 | Best Dens: 0.1972 | Status: 2/2000
+Iter: 380 | Dens: 0.1976 | Best Dens: 0.1977 | Status: 4/2000
+Iter: 400 | Dens: 0.1986 | Best Dens: 0.1987 | Status: 1/2000
+Iter: 420 | Dens: 0.2001 | Best Dens: 0.2001 | Status: 0/2000
+Iter: 440 | Dens: 0.2017 | Best Dens: 0.2019 | Status: 3/2000
+Iter: 460 | Dens: 0.2023 | Best Dens: 0.2023 | Status: 0/2000
+Iter: 480 | Dens: 0.2033 | Best Dens: 0.2033 | Status: 0/2000
+Iter: 500 | Dens: 0.2035 | Best Dens: 0.2036 | Status: 4/2000
+Iter: 520 | Dens: 0.2040 | Best Dens: 0.2043 | Status: 6/2000
+Iter: 540 | Dens: 0.2049 | Best Dens: 0.2049 | Status: 1/2000
+Iter: 560 | Dens: 0.2056 | Best Dens: 0.2057 | Status: 1/2000
+Iter: 580 | Dens: 0.2069 | Best Dens: 0.2069 | Status: 0/2000
+Iter: 600 | Dens: 0.2078 | Best Dens: 0.2080 | Status: 2/2000
+Iter: 620 | Dens: 0.2086 | Best Dens: 0.2086 | Status: 1/2000
+Iter: 640 | Dens: 0.2094 | Best Dens: 0.2094 | Status: 7/2000
+Iter: 660 | Dens: 0.2094 | Best Dens: 0.2095 | Status: 2/2000
+Iter: 680 | Dens: 0.2110 | Best Dens: 0.2110 | Status: 0/2000
+Iter: 700 | Dens: 0.2116 | Best Dens: 0.2117 | Status: 2/2000
+Iter: 720 | Dens: 0.2121 | Best Dens: 0.2121 | Status: 0/2000
+Iter: 740 | Dens: 0.2123 | Best Dens: 0.2123 | Status: 0/2000
+Iter: 760 | Dens: 0.2131 | Best Dens: 0.2131 | Status: 0/2000
+Iter: 780 | Dens: 0.2137 | Best Dens: 0.2139 | Status: 3/2000
+Iter: 800 | Dens: 0.2153 | Best Dens: 0.2153 | Status: 2/2000
+Iter: 820 | Dens: 0.2163 | Best Dens: 0.2163 | Status: 3/2000
+Iter: 840 | Dens: 0.2172 | Best Dens: 0.2174 | Status: 2/2000
+Iter: 860 | Dens: 0.2184 | Best Dens: 0.2186 | Status: 1/2000
+Iter: 880 | Dens: 0.2187 | Best Dens: 0.2189 | Status: 1/2000
+Iter: 900 | Dens: 0.2189 | Best Dens: 0.2189 | Status: 1/2000
+Iter: 920 | Dens: 0.2193 | Best Dens: 0.2193 | Status: 3/2000
+Iter: 940 | Dens: 0.2197 | Best Dens: 0.2200 | Status: 7/2000
+Iter: 960 | Dens: 0.2208 | Best Dens: 0.2210 | Status: 5/2000
+Iter: 980 | Dens: 0.2214 | Best Dens: 0.2214 | Status: 5/2000
+Iter: 1000 | Dens: 0.2218 | Best Dens: 0.2218 | Status: 0/2000
+Iter: 1020 | Dens: 0.2223 | Best Dens: 0.2223 | Status: 1/2000
+Iter: 1040 | Dens: 0.2225 | Best Dens: 0.2228 | Status: 1/2000
+Iter: 1060 | Dens: 0.2227 | Best Dens: 0.2230 | Status: 10/2000
+Iter: 1080 | Dens: 0.2235 | Best Dens: 0.2235 | Status: 0/2000
+Iter: 1100 | Dens: 0.2237 | Best Dens: 0.2239 | Status: 12/2000
+Iter: 1120 | Dens: 0.2239 | Best Dens: 0.2240 | Status: 1/2000
+Iter: 1140 | Dens: 0.2248 | Best Dens: 0.2248 | Status: 0/2000
+Iter: 1160 | Dens: 0.2251 | Best Dens: 0.2251 | Status: 0/2000
+Iter: 1180 | Dens: 0.2252 | Best Dens: 0.2253 | Status: 6/2000
+Iter: 1200 | Dens: 0.2260 | Best Dens: 0.2260 | Status: 0/2000
+Iter: 1220 | Dens: 0.2262 | Best Dens: 0.2263 | Status: 1/2000
+Iter: 1240 | Dens: 0.2263 | Best Dens: 0.2268 | Status: 5/2000
+Iter: 1260 | Dens: 0.2271 | Best Dens: 0.2272 | Status: 7/2000
+Iter: 1280 | Dens: 0.2276 | Best Dens: 0.2279 | Status: 5/2000
+Iter: 1300 | Dens: 0.2282 | Best Dens: 0.2286 | Status: 9/2000
+Iter: 1320 | Dens: 0.2286 | Best Dens: 0.2290 | Status: 13/2000
+Iter: 1340 | Dens: 0.2292 | Best Dens: 0.2294 | Status: 13/2000
+Iter: 1360 | Dens: 0.2294 | Best Dens: 0.2296 | Status: 4/2000
+Iter: 1380 | Dens: 0.2304 | Best Dens: 0.2304 | Status: 0/2000
+Iter: 1400 | Dens: 0.2306 | Best Dens: 0.2308 | Status: 10/2000
+Iter: 1420 | Dens: 0.2308 | Best Dens: 0.2309 | Status: 16/2000
+Iter: 1440 | Dens: 0.2314 | Best Dens: 0.2314 | Status: 0/2000
+Iter: 1460 | Dens: 0.2316 | Best Dens: 0.2316 | Status: 0/2000
+Iter: 1480 | Dens: 0.2317 | Best Dens: 0.2317 | Status: 6/2000
+Iter: 1500 | Dens: 0.2320 | Best Dens: 0.2320 | Status: 0/2000
+Iter: 1520 | Dens: 0.2321 | Best Dens: 0.2324 | Status: 5/2000
+Iter: 1540 | Dens: 0.2323 | Best Dens: 0.2327 | Status: 7/2000
+Iter: 1560 | Dens: 0.2339 | Best Dens: 0.2340 | Status: 5/2000
+Iter: 1580 | Dens: 0.2336 | Best Dens: 0.2340 | Status: 11/2000
+Iter: 1600 | Dens: 0.2346 | Best Dens: 0.2346 | Status: 0/2000
+Iter: 1620 | Dens: 0.2348 | Best Dens: 0.2348 | Status: 3/2000
+Iter: 1640 | Dens: 0.2347 | Best Dens: 0.2348 | Status: 5/2000
+Iter: 1660 | Dens: 0.2349 | Best Dens: 0.2352 | Status: 1/2000
+Iter: 1680 | Dens: 0.2349 | Best Dens: 0.2354 | Status: 1/2000
+Iter: 1700 | Dens: 0.2357 | Best Dens: 0.2358 | Status: 13/2000
+Iter: 1720 | Dens: 0.2359 | Best Dens: 0.2359 | Status: 14/2000
+Iter: 1740 | Dens: 0.2365 | Best Dens: 0.2368 | Status: 2/2000
+Iter: 1760 | Dens: 0.2367 | Best Dens: 0.2368 | Status: 2/2000
+Iter: 1780 | Dens: 0.2365 | Best Dens: 0.2368 | Status: 22/2000
+Iter: 1800 | Dens: 0.2369 | Best Dens: 0.2370 | Status: 1/2000
+Iter: 1820 | Dens: 0.2371 | Best Dens: 0.2373 | Status: 5/2000
+Iter: 1840 | Dens: 0.2382 | Best Dens: 0.2385 | Status: 1/2000
+Iter: 1860 | Dens: 0.2386 | Best Dens: 0.2387 | Status: 13/2000
+Iter: 1880 | Dens: 0.2387 | Best Dens: 0.2388 | Status: 8/2000
+Iter: 1900 | Dens: 0.2401 | Best Dens: 0.2401 | Status: 0/2000
+Iter: 1920 | Dens: 0.2402 | Best Dens: 0.2403 | Status: 9/2000
+Iter: 1940 | Dens: 0.2405 | Best Dens: 0.2406 | Status: 6/2000
+Iter: 1960 | Dens: 0.2412 | Best Dens: 0.2415 | Status: 2/2000
+Iter: 1980 | Dens: 0.2413 | Best Dens: 0.2415 | Status: 22/2000
+Iter: 2000 | Dens: 0.2419 | Best Dens: 0.2419 | Status: 0/2000
+>> Plot M=11 exported to: .\graphsv4\Opt_Mux_11.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 31.7344 | Density: 0.2341
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 330.0000
+>> Uniformity comparison plot M=11 exported to: .\graphsv4\Uniformity_Compare_Mux_11.png
+>> Gráfico de comparación de esferas M=11 exportado a: .\graphsv4\Sphere_Compare_Mux_11.png
+-------------------- Resumen M=11 --------------------
+  Condición: Inicial: 11551.06 | Optimizada: 34.68 | Uniforme: 31.7344
+  Densidad:  Inicial: 0.1689 | Optimizada: 0.2419 | Uniforme: 0.2341
+  RMSE Unif: Inicial: 330.0000 | Optimizada: 330.0201 | Uniforme: 330.0000
+
+Starting Optimization M=12 | Initial Cond: 13185.40 | Initial Density: 0.1843
+------------------------------------------------------------
+Iter: 20 | Dens: 0.1860 | Best Dens: 0.1860 | Status: 1/2000
+Iter: 40 | Dens: 0.1880 | Best Dens: 0.1880 | Status: 2/2000
+Iter: 60 | Dens: 0.1899 | Best Dens: 0.1899 | Status: 0/2000
+Iter: 80 | Dens: 0.1911 | Best Dens: 0.1911 | Status: 4/2000
+Iter: 100 | Dens: 0.1921 | Best Dens: 0.1921 | Status: 4/2000
+Iter: 120 | Dens: 0.1929 | Best Dens: 0.1929 | Status: 2/2000
+Iter: 140 | Dens: 0.1942 | Best Dens: 0.1942 | Status: 7/2000
+Iter: 160 | Dens: 0.1951 | Best Dens: 0.1955 | Status: 3/2000
+Iter: 180 | Dens: 0.1961 | Best Dens: 0.1961 | Status: 1/2000
+Iter: 200 | Dens: 0.1975 | Best Dens: 0.1975 | Status: 3/2000
+Iter: 220 | Dens: 0.1983 | Best Dens: 0.1983 | Status: 3/2000
+Iter: 240 | Dens: 0.1990 | Best Dens: 0.1990 | Status: 2/2000
+Iter: 260 | Dens: 0.2004 | Best Dens: 0.2006 | Status: 2/2000
+Iter: 280 | Dens: 0.2013 | Best Dens: 0.2013 | Status: 0/2000
+Iter: 300 | Dens: 0.2021 | Best Dens: 0.2024 | Status: 5/2000
+Iter: 320 | Dens: 0.2027 | Best Dens: 0.2027 | Status: 5/2000
+Iter: 340 | Dens: 0.2036 | Best Dens: 0.2036 | Status: 0/2000
+Iter: 360 | Dens: 0.2040 | Best Dens: 0.2041 | Status: 3/2000
+Iter: 380 | Dens: 0.2053 | Best Dens: 0.2053 | Status: 1/2000
+Iter: 400 | Dens: 0.2056 | Best Dens: 0.2056 | Status: 0/2000
+Iter: 420 | Dens: 0.2066 | Best Dens: 0.2066 | Status: 4/2000
+Iter: 440 | Dens: 0.2073 | Best Dens: 0.2073 | Status: 2/2000
+Iter: 460 | Dens: 0.2079 | Best Dens: 0.2080 | Status: 2/2000
+Iter: 480 | Dens: 0.2085 | Best Dens: 0.2085 | Status: 0/2000
+Iter: 500 | Dens: 0.2091 | Best Dens: 0.2091 | Status: 3/2000
+Iter: 520 | Dens: 0.2101 | Best Dens: 0.2101 | Status: 3/2000
+Iter: 540 | Dens: 0.2104 | Best Dens: 0.2105 | Status: 4/2000
+Iter: 560 | Dens: 0.2113 | Best Dens: 0.2113 | Status: 1/2000
+Iter: 580 | Dens: 0.2123 | Best Dens: 0.2123 | Status: 0/2000
+Iter: 600 | Dens: 0.2124 | Best Dens: 0.2126 | Status: 4/2000
+Iter: 620 | Dens: 0.2129 | Best Dens: 0.2130 | Status: 3/2000
+Iter: 640 | Dens: 0.2132 | Best Dens: 0.2137 | Status: 1/2000
+Iter: 660 | Dens: 0.2138 | Best Dens: 0.2139 | Status: 5/2000
+Iter: 680 | Dens: 0.2144 | Best Dens: 0.2145 | Status: 1/2000
+Iter: 700 | Dens: 0.2152 | Best Dens: 0.2153 | Status: 4/2000
+Iter: 720 | Dens: 0.2158 | Best Dens: 0.2158 | Status: 0/2000
+Iter: 740 | Dens: 0.2160 | Best Dens: 0.2161 | Status: 9/2000
+Iter: 760 | Dens: 0.2162 | Best Dens: 0.2163 | Status: 4/2000
+Iter: 780 | Dens: 0.2161 | Best Dens: 0.2165 | Status: 5/2000
+Iter: 800 | Dens: 0.2168 | Best Dens: 0.2169 | Status: 1/2000
+Iter: 820 | Dens: 0.2170 | Best Dens: 0.2171 | Status: 10/2000
+Iter: 840 | Dens: 0.2176 | Best Dens: 0.2177 | Status: 3/2000
+Iter: 860 | Dens: 0.2182 | Best Dens: 0.2182 | Status: 5/2000
+Iter: 880 | Dens: 0.2182 | Best Dens: 0.2182 | Status: 25/2000
+Iter: 900 | Dens: 0.2185 | Best Dens: 0.2185 | Status: 0/2000
+Iter: 920 | Dens: 0.2187 | Best Dens: 0.2189 | Status: 4/2000
+Iter: 940 | Dens: 0.2192 | Best Dens: 0.2194 | Status: 4/2000
+Iter: 960 | Dens: 0.2196 | Best Dens: 0.2197 | Status: 9/2000
+Iter: 980 | Dens: 0.2195 | Best Dens: 0.2200 | Status: 1/2000
+Iter: 1000 | Dens: 0.2209 | Best Dens: 0.2209 | Status: 1/2000
+Iter: 1020 | Dens: 0.2213 | Best Dens: 0.2215 | Status: 1/2000
+Iter: 1040 | Dens: 0.2214 | Best Dens: 0.2215 | Status: 21/2000
+Iter: 1060 | Dens: 0.2214 | Best Dens: 0.2216 | Status: 2/2000
+Iter: 1080 | Dens: 0.2225 | Best Dens: 0.2225 | Status: 1/2000
+Iter: 1100 | Dens: 0.2233 | Best Dens: 0.2234 | Status: 6/2000
+Iter: 1120 | Dens: 0.2235 | Best Dens: 0.2237 | Status: 1/2000
+Iter: 1140 | Dens: 0.2238 | Best Dens: 0.2238 | Status: 2/2000
+Iter: 1160 | Dens: 0.2240 | Best Dens: 0.2241 | Status: 2/2000
+Iter: 1180 | Dens: 0.2243 | Best Dens: 0.2243 | Status: 7/2000
+Iter: 1200 | Dens: 0.2245 | Best Dens: 0.2249 | Status: 1/2000
+Iter: 1220 | Dens: 0.2256 | Best Dens: 0.2257 | Status: 2/2000
+Iter: 1240 | Dens: 0.2260 | Best Dens: 0.2261 | Status: 2/2000
+Iter: 1260 | Dens: 0.2263 | Best Dens: 0.2264 | Status: 1/2000
+Iter: 1280 | Dens: 0.2270 | Best Dens: 0.2271 | Status: 4/2000
+Iter: 1300 | Dens: 0.2271 | Best Dens: 0.2273 | Status: 4/2000
+Iter: 1320 | Dens: 0.2274 | Best Dens: 0.2275 | Status: 7/2000
+Iter: 1340 | Dens: 0.2278 | Best Dens: 0.2279 | Status: 7/2000
+Iter: 1360 | Dens: 0.2281 | Best Dens: 0.2284 | Status: 4/2000
+Iter: 1380 | Dens: 0.2288 | Best Dens: 0.2289 | Status: 15/2000
+Iter: 1400 | Dens: 0.2288 | Best Dens: 0.2290 | Status: 11/2000
+Iter: 1420 | Dens: 0.2292 | Best Dens: 0.2292 | Status: 0/2000
+Iter: 1440 | Dens: 0.2295 | Best Dens: 0.2295 | Status: 0/2000
+Iter: 1460 | Dens: 0.2297 | Best Dens: 0.2297 | Status: 5/2000
+Iter: 1480 | Dens: 0.2298 | Best Dens: 0.2298 | Status: 1/2000
+Iter: 1500 | Dens: 0.2301 | Best Dens: 0.2302 | Status: 5/2000
+Iter: 1520 | Dens: 0.2305 | Best Dens: 0.2307 | Status: 2/2000
+Iter: 1540 | Dens: 0.2307 | Best Dens: 0.2308 | Status: 5/2000
+Iter: 1560 | Dens: 0.2309 | Best Dens: 0.2309 | Status: 5/2000
+Iter: 1580 | Dens: 0.2312 | Best Dens: 0.2312 | Status: 0/2000
+Iter: 1600 | Dens: 0.2317 | Best Dens: 0.2317 | Status: 7/2000
+Iter: 1620 | Dens: 0.2316 | Best Dens: 0.2317 | Status: 27/2000
+Iter: 1640 | Dens: 0.2319 | Best Dens: 0.2321 | Status: 4/2000
+Iter: 1660 | Dens: 0.2328 | Best Dens: 0.2329 | Status: 1/2000
+Iter: 1680 | Dens: 0.2332 | Best Dens: 0.2333 | Status: 9/2000
+Iter: 1700 | Dens: 0.2341 | Best Dens: 0.2341 | Status: 2/2000
+Iter: 1720 | Dens: 0.2346 | Best Dens: 0.2346 | Status: 1/2000
+Iter: 1740 | Dens: 0.2348 | Best Dens: 0.2348 | Status: 0/2000
+Iter: 1760 | Dens: 0.2349 | Best Dens: 0.2349 | Status: 4/2000
+Iter: 1780 | Dens: 0.2351 | Best Dens: 0.2351 | Status: 0/2000
+Iter: 1800 | Dens: 0.2354 | Best Dens: 0.2354 | Status: 0/2000
+Iter: 1820 | Dens: 0.2356 | Best Dens: 0.2356 | Status: 4/2000
+Iter: 1840 | Dens: 0.2356 | Best Dens: 0.2357 | Status: 10/2000
+Iter: 1860 | Dens: 0.2359 | Best Dens: 0.2359 | Status: 6/2000
+Iter: 1880 | Dens: 0.2364 | Best Dens: 0.2364 | Status: 1/2000
+Iter: 1900 | Dens: 0.2364 | Best Dens: 0.2366 | Status: 4/2000
+Iter: 1920 | Dens: 0.2366 | Best Dens: 0.2367 | Status: 16/2000
+Iter: 1940 | Dens: 0.2366 | Best Dens: 0.2369 | Status: 12/2000
+Iter: 1960 | Dens: 0.2368 | Best Dens: 0.2371 | Status: 8/2000
+Iter: 1980 | Dens: 0.2373 | Best Dens: 0.2374 | Status: 4/2000
+Iter: 2000 | Dens: 0.2376 | Best Dens: 0.2376 | Status: 0/2000
+>> Plot M=12 exported to: .\graphsv4\Opt_Mux_12.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 42.2250 | Density: 0.2315
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 360.0001
+>> Uniformity comparison plot M=12 exported to: .\graphsv4\Uniformity_Compare_Mux_12.png
+>> Gráfico de comparación de esferas M=12 exportado a: .\graphsv4\Sphere_Compare_Mux_12.png
+-------------------- Resumen M=12 --------------------
+  Condición: Inicial: 13185.40 | Optimizada: 45.19 | Uniforme: 42.2250
+  Densidad:  Inicial: 0.1843 | Optimizada: 0.2376 | Uniforme: 0.2315
+  RMSE Unif: Inicial: 360.0000 | Optimizada: 360.0161 | Uniforme: 360.0001
+
+Starting Optimization M=13 | Initial Cond: 14520.24 | Initial Density: 0.1996
+------------------------------------------------------------
+Iter: 20 | Dens: 0.2005 | Best Dens: 0.2005 | Status: 1/2000
+Iter: 40 | Dens: 0.2024 | Best Dens: 0.2024 | Status: 0/2000
+Iter: 60 | Dens: 0.2037 | Best Dens: 0.2037 | Status: 0/2000
+Iter: 80 | Dens: 0.2046 | Best Dens: 0.2046 | Status: 0/2000
+Iter: 100 | Dens: 0.2064 | Best Dens: 0.2064 | Status: 0/2000
+Iter: 120 | Dens: 0.2072 | Best Dens: 0.2072 | Status: 0/2000
+Iter: 140 | Dens: 0.2083 | Best Dens: 0.2083 | Status: 0/2000
+Iter: 160 | Dens: 0.2093 | Best Dens: 0.2093 | Status: 7/2000
+Iter: 180 | Dens: 0.2102 | Best Dens: 0.2102 | Status: 2/2000
+Iter: 200 | Dens: 0.2106 | Best Dens: 0.2106 | Status: 4/2000
+Iter: 220 | Dens: 0.2114 | Best Dens: 0.2114 | Status: 1/2000
+Iter: 240 | Dens: 0.2129 | Best Dens: 0.2130 | Status: 1/2000
+Iter: 260 | Dens: 0.2132 | Best Dens: 0.2133 | Status: 7/2000
+Iter: 280 | Dens: 0.2138 | Best Dens: 0.2138 | Status: 1/2000
+Iter: 300 | Dens: 0.2144 | Best Dens: 0.2145 | Status: 2/2000
+Iter: 320 | Dens: 0.2151 | Best Dens: 0.2152 | Status: 2/2000
+Iter: 340 | Dens: 0.2157 | Best Dens: 0.2157 | Status: 4/2000
+Iter: 360 | Dens: 0.2163 | Best Dens: 0.2164 | Status: 7/2000
+Iter: 380 | Dens: 0.2170 | Best Dens: 0.2171 | Status: 3/2000
+Iter: 400 | Dens: 0.2176 | Best Dens: 0.2176 | Status: 8/2000
+Iter: 420 | Dens: 0.2177 | Best Dens: 0.2177 | Status: 6/2000
+Iter: 440 | Dens: 0.2180 | Best Dens: 0.2180 | Status: 0/2000
+Iter: 460 | Dens: 0.2181 | Best Dens: 0.2183 | Status: 4/2000
+Iter: 480 | Dens: 0.2185 | Best Dens: 0.2186 | Status: 4/2000
+Iter: 500 | Dens: 0.2190 | Best Dens: 0.2191 | Status: 14/2000
+Iter: 520 | Dens: 0.2192 | Best Dens: 0.2192 | Status: 0/2000
+Iter: 540 | Dens: 0.2202 | Best Dens: 0.2203 | Status: 1/2000
+Iter: 560 | Dens: 0.2206 | Best Dens: 0.2207 | Status: 7/2000
+Iter: 580 | Dens: 0.2209 | Best Dens: 0.2209 | Status: 0/2000
+Iter: 600 | Dens: 0.2214 | Best Dens: 0.2215 | Status: 3/2000
+Iter: 620 | Dens: 0.2219 | Best Dens: 0.2219 | Status: 0/2000
+Iter: 640 | Dens: 0.2220 | Best Dens: 0.2221 | Status: 3/2000
+Iter: 660 | Dens: 0.2224 | Best Dens: 0.2224 | Status: 0/2000
+Iter: 680 | Dens: 0.2225 | Best Dens: 0.2226 | Status: 5/2000
+Iter: 700 | Dens: 0.2228 | Best Dens: 0.2229 | Status: 1/2000
+Iter: 720 | Dens: 0.2229 | Best Dens: 0.2230 | Status: 1/2000
+Iter: 740 | Dens: 0.2234 | Best Dens: 0.2234 | Status: 0/2000
+Iter: 760 | Dens: 0.2236 | Best Dens: 0.2236 | Status: 0/2000
+Iter: 780 | Dens: 0.2240 | Best Dens: 0.2241 | Status: 11/2000
+Iter: 800 | Dens: 0.2239 | Best Dens: 0.2242 | Status: 10/2000
+Iter: 820 | Dens: 0.2244 | Best Dens: 0.2245 | Status: 2/2000
+Iter: 840 | Dens: 0.2251 | Best Dens: 0.2251 | Status: 0/2000
+Iter: 860 | Dens: 0.2256 | Best Dens: 0.2256 | Status: 0/2000
+Iter: 880 | Dens: 0.2257 | Best Dens: 0.2258 | Status: 10/2000
+Iter: 900 | Dens: 0.2257 | Best Dens: 0.2259 | Status: 3/2000
+Iter: 920 | Dens: 0.2262 | Best Dens: 0.2262 | Status: 2/2000
+Iter: 940 | Dens: 0.2266 | Best Dens: 0.2266 | Status: 5/2000
+Iter: 960 | Dens: 0.2265 | Best Dens: 0.2266 | Status: 9/2000
+Iter: 980 | Dens: 0.2269 | Best Dens: 0.2270 | Status: 7/2000
+Iter: 1000 | Dens: 0.2271 | Best Dens: 0.2272 | Status: 6/2000
+Iter: 1020 | Dens: 0.2275 | Best Dens: 0.2276 | Status: 3/2000
+Iter: 1040 | Dens: 0.2280 | Best Dens: 0.2280 | Status: 8/2000
+Iter: 1060 | Dens: 0.2282 | Best Dens: 0.2282 | Status: 1/2000
+Iter: 1080 | Dens: 0.2284 | Best Dens: 0.2284 | Status: 5/2000
+Iter: 1100 | Dens: 0.2287 | Best Dens: 0.2287 | Status: 5/2000
+Iter: 1120 | Dens: 0.2289 | Best Dens: 0.2291 | Status: 11/2000
+Iter: 1140 | Dens: 0.2294 | Best Dens: 0.2294 | Status: 0/2000
+Iter: 1160 | Dens: 0.2295 | Best Dens: 0.2295 | Status: 5/2000
+Iter: 1180 | Dens: 0.2301 | Best Dens: 0.2301 | Status: 1/2000
+Iter: 1200 | Dens: 0.2305 | Best Dens: 0.2306 | Status: 2/2000
+Iter: 1220 | Dens: 0.2309 | Best Dens: 0.2310 | Status: 16/2000
+Iter: 1240 | Dens: 0.2315 | Best Dens: 0.2315 | Status: 1/2000
+Iter: 1260 | Dens: 0.2315 | Best Dens: 0.2316 | Status: 9/2000
+Iter: 1280 | Dens: 0.2316 | Best Dens: 0.2318 | Status: 2/2000
+Iter: 1300 | Dens: 0.2322 | Best Dens: 0.2323 | Status: 1/2000
+Iter: 1320 | Dens: 0.2321 | Best Dens: 0.2324 | Status: 3/2000
+Iter: 1340 | Dens: 0.2324 | Best Dens: 0.2326 | Status: 1/2000
+Iter: 1360 | Dens: 0.2326 | Best Dens: 0.2329 | Status: 5/2000
+Iter: 1380 | Dens: 0.2329 | Best Dens: 0.2331 | Status: 1/2000
+Iter: 1400 | Dens: 0.2333 | Best Dens: 0.2334 | Status: 1/2000
+Iter: 1420 | Dens: 0.2338 | Best Dens: 0.2338 | Status: 8/2000
+Iter: 1440 | Dens: 0.2336 | Best Dens: 0.2338 | Status: 28/2000
+Iter: 1460 | Dens: 0.2341 | Best Dens: 0.2344 | Status: 8/2000
+Iter: 1480 | Dens: 0.2342 | Best Dens: 0.2344 | Status: 15/2000
+Iter: 1500 | Dens: 0.2344 | Best Dens: 0.2344 | Status: 35/2000
+Iter: 1520 | Dens: 0.2349 | Best Dens: 0.2350 | Status: 5/2000
+Iter: 1540 | Dens: 0.2355 | Best Dens: 0.2356 | Status: 8/2000
+Iter: 1560 | Dens: 0.2356 | Best Dens: 0.2358 | Status: 1/2000
+Iter: 1580 | Dens: 0.2363 | Best Dens: 0.2367 | Status: 1/2000
+Iter: 1600 | Dens: 0.2368 | Best Dens: 0.2369 | Status: 3/2000
+Iter: 1620 | Dens: 0.2369 | Best Dens: 0.2370 | Status: 19/2000
+Iter: 1640 | Dens: 0.2372 | Best Dens: 0.2373 | Status: 7/2000
+Iter: 1660 | Dens: 0.2374 | Best Dens: 0.2376 | Status: 6/2000
+Iter: 1680 | Dens: 0.2383 | Best Dens: 0.2383 | Status: 0/2000
+Iter: 1700 | Dens: 0.2382 | Best Dens: 0.2384 | Status: 6/2000
+Iter: 1720 | Dens: 0.2388 | Best Dens: 0.2389 | Status: 5/2000
+Iter: 1740 | Dens: 0.2391 | Best Dens: 0.2391 | Status: 7/2000
+Iter: 1760 | Dens: 0.2391 | Best Dens: 0.2393 | Status: 16/2000
+Iter: 1780 | Dens: 0.2394 | Best Dens: 0.2394 | Status: 0/2000
+Iter: 1800 | Dens: 0.2398 | Best Dens: 0.2398 | Status: 0/2000
+Iter: 1820 | Dens: 0.2399 | Best Dens: 0.2399 | Status: 0/2000
+Iter: 1840 | Dens: 0.2404 | Best Dens: 0.2404 | Status: 0/2000
+Iter: 1860 | Dens: 0.2406 | Best Dens: 0.2406 | Status: 11/2000
+Iter: 1880 | Dens: 0.2412 | Best Dens: 0.2412 | Status: 1/2000
+Iter: 1900 | Dens: 0.2415 | Best Dens: 0.2415 | Status: 0/2000
+Iter: 1920 | Dens: 0.2416 | Best Dens: 0.2416 | Status: 6/2000
+Iter: 1940 | Dens: 0.2422 | Best Dens: 0.2422 | Status: 0/2000
+Iter: 1960 | Dens: 0.2423 | Best Dens: 0.2423 | Status: 12/2000
+Iter: 1980 | Dens: 0.2422 | Best Dens: 0.2424 | Status: 7/2000
+Iter: 2000 | Dens: 0.2422 | Best Dens: 0.2424 | Status: 27/2000
+>> Plot M=13 exported to: .\graphsv4\Opt_Mux_13.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 45.8989 | Density: 0.2377
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 390.0000
+>> Uniformity comparison plot M=13 exported to: .\graphsv4\Uniformity_Compare_Mux_13.png
+>> Gráfico de comparación de esferas M=13 exportado a: .\graphsv4\Sphere_Compare_Mux_13.png
+-------------------- Resumen M=13 --------------------
+  Condición: Inicial: 14520.24 | Optimizada: 51.56 | Uniforme: 45.8989
+  Densidad:  Inicial: 0.1996 | Optimizada: 0.2424 | Uniforme: 0.2377
+  RMSE Unif: Inicial: 390.0000 | Optimizada: 390.0266 | Uniforme: 390.0000
+
+Starting Optimization M=14 | Initial Cond: 15435.85 | Initial Density: 0.2150
+------------------------------------------------------------
+Iter: 20 | Dens: 0.2161 | Best Dens: 0.2161 | Status: 2/2000
+Iter: 40 | Dens: 0.2169 | Best Dens: 0.2169 | Status: 1/2000
+Iter: 60 | Dens: 0.2175 | Best Dens: 0.2175 | Status: 0/2000
+Iter: 80 | Dens: 0.2181 | Best Dens: 0.2181 | Status: 1/2000
+Iter: 100 | Dens: 0.2185 | Best Dens: 0.2185 | Status: 5/2000
+Iter: 120 | Dens: 0.2191 | Best Dens: 0.2192 | Status: 3/2000
+Iter: 140 | Dens: 0.2197 | Best Dens: 0.2197 | Status: 0/2000
+Iter: 160 | Dens: 0.2208 | Best Dens: 0.2208 | Status: 1/2000
+Iter: 180 | Dens: 0.2214 | Best Dens: 0.2215 | Status: 6/2000
+Iter: 200 | Dens: 0.2223 | Best Dens: 0.2223 | Status: 1/2000
+Iter: 220 | Dens: 0.2234 | Best Dens: 0.2234 | Status: 0/2000
+Iter: 240 | Dens: 0.2234 | Best Dens: 0.2234 | Status: 20/2000
+Iter: 260 | Dens: 0.2237 | Best Dens: 0.2237 | Status: 3/2000
+Iter: 280 | Dens: 0.2239 | Best Dens: 0.2239 | Status: 2/2000
+Iter: 300 | Dens: 0.2245 | Best Dens: 0.2245 | Status: 0/2000
+Iter: 320 | Dens: 0.2253 | Best Dens: 0.2253 | Status: 1/2000
+Iter: 340 | Dens: 0.2255 | Best Dens: 0.2255 | Status: 6/2000
+Iter: 360 | Dens: 0.2260 | Best Dens: 0.2260 | Status: 1/2000
+Iter: 380 | Dens: 0.2268 | Best Dens: 0.2268 | Status: 0/2000
+Iter: 400 | Dens: 0.2272 | Best Dens: 0.2272 | Status: 0/2000
+Iter: 420 | Dens: 0.2276 | Best Dens: 0.2276 | Status: 1/2000
+Iter: 440 | Dens: 0.2278 | Best Dens: 0.2278 | Status: 2/2000
+Iter: 460 | Dens: 0.2283 | Best Dens: 0.2283 | Status: 1/2000
+Iter: 480 | Dens: 0.2288 | Best Dens: 0.2288 | Status: 0/2000
+Iter: 500 | Dens: 0.2289 | Best Dens: 0.2289 | Status: 3/2000
+Iter: 520 | Dens: 0.2293 | Best Dens: 0.2293 | Status: 1/2000
+Iter: 540 | Dens: 0.2294 | Best Dens: 0.2294 | Status: 7/2000
+Iter: 560 | Dens: 0.2294 | Best Dens: 0.2297 | Status: 2/2000
+Iter: 580 | Dens: 0.2303 | Best Dens: 0.2303 | Status: 5/2000
+Iter: 600 | Dens: 0.2306 | Best Dens: 0.2306 | Status: 1/2000
+Iter: 620 | Dens: 0.2307 | Best Dens: 0.2307 | Status: 7/2000
+Iter: 640 | Dens: 0.2312 | Best Dens: 0.2312 | Status: 0/2000
+Iter: 660 | Dens: 0.2311 | Best Dens: 0.2313 | Status: 4/2000
+Iter: 680 | Dens: 0.2315 | Best Dens: 0.2315 | Status: 2/2000
+Iter: 700 | Dens: 0.2317 | Best Dens: 0.2317 | Status: 0/2000
+Iter: 720 | Dens: 0.2317 | Best Dens: 0.2318 | Status: 2/2000
+Iter: 740 | Dens: 0.2324 | Best Dens: 0.2324 | Status: 4/2000
+Iter: 760 | Dens: 0.2326 | Best Dens: 0.2327 | Status: 9/2000
+Iter: 780 | Dens: 0.2329 | Best Dens: 0.2330 | Status: 3/2000
+Iter: 800 | Dens: 0.2332 | Best Dens: 0.2332 | Status: 10/2000
+Iter: 820 | Dens: 0.2332 | Best Dens: 0.2332 | Status: 5/2000
+Iter: 840 | Dens: 0.2332 | Best Dens: 0.2333 | Status: 10/2000
+Iter: 860 | Dens: 0.2337 | Best Dens: 0.2337 | Status: 0/2000
+Iter: 880 | Dens: 0.2339 | Best Dens: 0.2340 | Status: 2/2000
+Iter: 900 | Dens: 0.2347 | Best Dens: 0.2347 | Status: 0/2000
+Iter: 920 | Dens: 0.2349 | Best Dens: 0.2349 | Status: 3/2000
+Iter: 940 | Dens: 0.2351 | Best Dens: 0.2351 | Status: 6/2000
+Iter: 960 | Dens: 0.2350 | Best Dens: 0.2352 | Status: 1/2000
+Iter: 980 | Dens: 0.2354 | Best Dens: 0.2354 | Status: 8/2000
+Iter: 1000 | Dens: 0.2358 | Best Dens: 0.2358 | Status: 0/2000
+Iter: 1020 | Dens: 0.2359 | Best Dens: 0.2359 | Status: 6/2000
+Iter: 1040 | Dens: 0.2359 | Best Dens: 0.2359 | Status: 26/2000
+Iter: 1060 | Dens: 0.2360 | Best Dens: 0.2360 | Status: 0/2000
+Iter: 1080 | Dens: 0.2361 | Best Dens: 0.2362 | Status: 8/2000
+Iter: 1100 | Dens: 0.2362 | Best Dens: 0.2362 | Status: 5/2000
+Iter: 1120 | Dens: 0.2364 | Best Dens: 0.2364 | Status: 6/2000
+Iter: 1140 | Dens: 0.2366 | Best Dens: 0.2366 | Status: 0/2000
+Iter: 1160 | Dens: 0.2368 | Best Dens: 0.2370 | Status: 2/2000
+Iter: 1180 | Dens: 0.2375 | Best Dens: 0.2376 | Status: 1/2000
+Iter: 1200 | Dens: 0.2377 | Best Dens: 0.2378 | Status: 6/2000
+Iter: 1220 | Dens: 0.2380 | Best Dens: 0.2380 | Status: 4/2000
+Iter: 1240 | Dens: 0.2379 | Best Dens: 0.2380 | Status: 24/2000
+Iter: 1260 | Dens: 0.2381 | Best Dens: 0.2381 | Status: 4/2000
+Iter: 1280 | Dens: 0.2387 | Best Dens: 0.2387 | Status: 0/2000
+Iter: 1300 | Dens: 0.2388 | Best Dens: 0.2388 | Status: 0/2000
+Iter: 1320 | Dens: 0.2392 | Best Dens: 0.2392 | Status: 0/2000
+Iter: 1340 | Dens: 0.2391 | Best Dens: 0.2393 | Status: 2/2000
+Iter: 1360 | Dens: 0.2396 | Best Dens: 0.2396 | Status: 0/2000
+Iter: 1380 | Dens: 0.2398 | Best Dens: 0.2398 | Status: 0/2000
+Iter: 1400 | Dens: 0.2399 | Best Dens: 0.2400 | Status: 2/2000
+Iter: 1420 | Dens: 0.2401 | Best Dens: 0.2402 | Status: 2/2000
+Iter: 1440 | Dens: 0.2402 | Best Dens: 0.2403 | Status: 15/2000
+Iter: 1460 | Dens: 0.2407 | Best Dens: 0.2409 | Status: 2/2000
+Iter: 1480 | Dens: 0.2412 | Best Dens: 0.2412 | Status: 5/2000
+Iter: 1500 | Dens: 0.2413 | Best Dens: 0.2414 | Status: 7/2000
+Iter: 1520 | Dens: 0.2415 | Best Dens: 0.2416 | Status: 1/2000
+Iter: 1540 | Dens: 0.2415 | Best Dens: 0.2416 | Status: 6/2000
+Iter: 1560 | Dens: 0.2418 | Best Dens: 0.2418 | Status: 1/2000
+Iter: 1580 | Dens: 0.2420 | Best Dens: 0.2421 | Status: 2/2000
+Iter: 1600 | Dens: 0.2424 | Best Dens: 0.2424 | Status: 2/2000
+Iter: 1620 | Dens: 0.2427 | Best Dens: 0.2427 | Status: 0/2000
+Iter: 1640 | Dens: 0.2426 | Best Dens: 0.2428 | Status: 12/2000
+Iter: 1660 | Dens: 0.2429 | Best Dens: 0.2429 | Status: 6/2000
+Iter: 1680 | Dens: 0.2432 | Best Dens: 0.2432 | Status: 0/2000
+Iter: 1700 | Dens: 0.2433 | Best Dens: 0.2433 | Status: 7/2000
+Iter: 1720 | Dens: 0.2432 | Best Dens: 0.2434 | Status: 5/2000
+Iter: 1740 | Dens: 0.2436 | Best Dens: 0.2437 | Status: 6/2000
+Iter: 1760 | Dens: 0.2439 | Best Dens: 0.2439 | Status: 0/2000
+Iter: 1780 | Dens: 0.2440 | Best Dens: 0.2440 | Status: 5/2000
+Iter: 1800 | Dens: 0.2440 | Best Dens: 0.2441 | Status: 8/2000
+Iter: 1820 | Dens: 0.2439 | Best Dens: 0.2442 | Status: 19/2000
+Iter: 1840 | Dens: 0.2445 | Best Dens: 0.2446 | Status: 1/2000
+Iter: 1860 | Dens: 0.2452 | Best Dens: 0.2453 | Status: 2/2000
+Iter: 1880 | Dens: 0.2454 | Best Dens: 0.2454 | Status: 0/2000
+Iter: 1900 | Dens: 0.2454 | Best Dens: 0.2456 | Status: 13/2000
+Iter: 1920 | Dens: 0.2456 | Best Dens: 0.2458 | Status: 3/2000
+Iter: 1940 | Dens: 0.2459 | Best Dens: 0.2459 | Status: 12/2000
+Iter: 1960 | Dens: 0.2458 | Best Dens: 0.2460 | Status: 2/2000
+Iter: 1980 | Dens: 0.2457 | Best Dens: 0.2462 | Status: 10/2000
+Iter: 2000 | Dens: 0.2462 | Best Dens: 0.2464 | Status: 16/2000
+>> Plot M=14 exported to: .\graphsv4\Opt_Mux_14.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 46.5368 | Density: 0.2419
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 420.0001
+>> Uniformity comparison plot M=14 exported to: .\graphsv4\Uniformity_Compare_Mux_14.png
+>> Gráfico de comparación de esferas M=14 exportado a: .\graphsv4\Sphere_Compare_Mux_14.png
+-------------------- Resumen M=14 --------------------
+  Condición: Inicial: 15435.85 | Optimizada: 50.78 | Uniforme: 46.5368
+  Densidad:  Inicial: 0.2150 | Optimizada: 0.2464 | Uniforme: 0.2419
+  RMSE Unif: Inicial: 420.0000 | Optimizada: 420.0373 | Uniforme: 420.0001
+
+Starting Optimization M=15 | Initial Cond: 890.79 | Initial Density: 0.2303
+------------------------------------------------------------
+Iter: 20 | Dens: 0.2307 | Best Dens: 0.2307 | Status: 3/2000
+Iter: 40 | Dens: 0.2308 | Best Dens: 0.2309 | Status: 3/2000
+Iter: 60 | Dens: 0.2315 | Best Dens: 0.2315 | Status: 3/2000
+Iter: 80 | Dens: 0.2324 | Best Dens: 0.2324 | Status: 0/2000
+Iter: 100 | Dens: 0.2329 | Best Dens: 0.2329 | Status: 9/2000
+Iter: 120 | Dens: 0.2338 | Best Dens: 0.2338 | Status: 0/2000
+Iter: 140 | Dens: 0.2341 | Best Dens: 0.2341 | Status: 7/2000
+Iter: 160 | Dens: 0.2343 | Best Dens: 0.2343 | Status: 0/2000
+Iter: 180 | Dens: 0.2350 | Best Dens: 0.2350 | Status: 1/2000
+Iter: 200 | Dens: 0.2353 | Best Dens: 0.2353 | Status: 5/2000
+Iter: 220 | Dens: 0.2359 | Best Dens: 0.2359 | Status: 0/2000
+Iter: 240 | Dens: 0.2363 | Best Dens: 0.2363 | Status: 0/2000
+Iter: 260 | Dens: 0.2364 | Best Dens: 0.2365 | Status: 2/2000
+Iter: 280 | Dens: 0.2367 | Best Dens: 0.2367 | Status: 12/2000
+Iter: 300 | Dens: 0.2372 | Best Dens: 0.2372 | Status: 5/2000
+Iter: 320 | Dens: 0.2377 | Best Dens: 0.2377 | Status: 0/2000
+Iter: 340 | Dens: 0.2380 | Best Dens: 0.2381 | Status: 1/2000
+Iter: 360 | Dens: 0.2383 | Best Dens: 0.2384 | Status: 1/2000
+Iter: 380 | Dens: 0.2388 | Best Dens: 0.2388 | Status: 0/2000
+Iter: 400 | Dens: 0.2388 | Best Dens: 0.2388 | Status: 5/2000
+Iter: 420 | Dens: 0.2392 | Best Dens: 0.2393 | Status: 1/2000
+Iter: 440 | Dens: 0.2398 | Best Dens: 0.2398 | Status: 1/2000
+Iter: 460 | Dens: 0.2406 | Best Dens: 0.2406 | Status: 1/2000
+Iter: 480 | Dens: 0.2408 | Best Dens: 0.2409 | Status: 2/2000
+Iter: 500 | Dens: 0.2409 | Best Dens: 0.2410 | Status: 3/2000
+Iter: 520 | Dens: 0.2413 | Best Dens: 0.2414 | Status: 7/2000
+Iter: 540 | Dens: 0.2416 | Best Dens: 0.2416 | Status: 0/2000
+Iter: 560 | Dens: 0.2415 | Best Dens: 0.2417 | Status: 2/2000
+Iter: 580 | Dens: 0.2421 | Best Dens: 0.2422 | Status: 5/2000
+Iter: 600 | Dens: 0.2432 | Best Dens: 0.2432 | Status: 3/2000
+Iter: 620 | Dens: 0.2434 | Best Dens: 0.2435 | Status: 4/2000
+Iter: 640 | Dens: 0.2435 | Best Dens: 0.2436 | Status: 6/2000
+Iter: 660 | Dens: 0.2438 | Best Dens: 0.2439 | Status: 8/2000
+Iter: 680 | Dens: 0.2438 | Best Dens: 0.2440 | Status: 7/2000
+Iter: 700 | Dens: 0.2444 | Best Dens: 0.2444 | Status: 2/2000
+Iter: 720 | Dens: 0.2443 | Best Dens: 0.2444 | Status: 15/2000
+Iter: 740 | Dens: 0.2447 | Best Dens: 0.2447 | Status: 4/2000
+Iter: 760 | Dens: 0.2451 | Best Dens: 0.2451 | Status: 1/2000
+Iter: 780 | Dens: 0.2452 | Best Dens: 0.2453 | Status: 4/2000
+Iter: 800 | Dens: 0.2455 | Best Dens: 0.2455 | Status: 0/2000
+Iter: 820 | Dens: 0.2458 | Best Dens: 0.2459 | Status: 5/2000
+Iter: 840 | Dens: 0.2458 | Best Dens: 0.2459 | Status: 18/2000
+Iter: 860 | Dens: 0.2460 | Best Dens: 0.2460 | Status: 5/2000
+Iter: 880 | Dens: 0.2468 | Best Dens: 0.2468 | Status: 0/2000
+Iter: 900 | Dens: 0.2468 | Best Dens: 0.2470 | Status: 1/2000
+Iter: 920 | Dens: 0.2471 | Best Dens: 0.2471 | Status: 4/2000
+Iter: 940 | Dens: 0.2472 | Best Dens: 0.2472 | Status: 0/2000
+Iter: 960 | Dens: 0.2471 | Best Dens: 0.2474 | Status: 2/2000
+Iter: 980 | Dens: 0.2477 | Best Dens: 0.2477 | Status: 1/2000
+Iter: 1000 | Dens: 0.2478 | Best Dens: 0.2479 | Status: 6/2000
+Iter: 1020 | Dens: 0.2482 | Best Dens: 0.2482 | Status: 0/2000
+Iter: 1040 | Dens: 0.2485 | Best Dens: 0.2485 | Status: 0/2000
+Iter: 1060 | Dens: 0.2486 | Best Dens: 0.2486 | Status: 13/2000
+Iter: 1080 | Dens: 0.2488 | Best Dens: 0.2489 | Status: 8/2000
+Iter: 1100 | Dens: 0.2491 | Best Dens: 0.2491 | Status: 0/2000
+Iter: 1120 | Dens: 0.2490 | Best Dens: 0.2492 | Status: 2/2000
+Iter: 1140 | Dens: 0.2492 | Best Dens: 0.2493 | Status: 3/2000
+Iter: 1160 | Dens: 0.2493 | Best Dens: 0.2494 | Status: 1/2000
+Iter: 1180 | Dens: 0.2494 | Best Dens: 0.2495 | Status: 17/2000
+Iter: 1200 | Dens: 0.2495 | Best Dens: 0.2495 | Status: 11/2000
+Iter: 1220 | Dens: 0.2499 | Best Dens: 0.2499 | Status: 4/2000
+Iter: 1240 | Dens: 0.2503 | Best Dens: 0.2504 | Status: 3/2000
+Iter: 1260 | Dens: 0.2506 | Best Dens: 0.2507 | Status: 1/2000
+Iter: 1280 | Dens: 0.2507 | Best Dens: 0.2508 | Status: 3/2000
+Iter: 1300 | Dens: 0.2510 | Best Dens: 0.2510 | Status: 0/2000
+Iter: 1320 | Dens: 0.2511 | Best Dens: 0.2512 | Status: 1/2000
+Iter: 1340 | Dens: 0.2514 | Best Dens: 0.2514 | Status: 2/2000
+Iter: 1360 | Dens: 0.2514 | Best Dens: 0.2516 | Status: 2/2000
+Iter: 1380 | Dens: 0.2517 | Best Dens: 0.2517 | Status: 0/2000
+Iter: 1400 | Dens: 0.2518 | Best Dens: 0.2519 | Status: 2/2000
+Iter: 1420 | Dens: 0.2519 | Best Dens: 0.2520 | Status: 4/2000
+Iter: 1440 | Dens: 0.2520 | Best Dens: 0.2521 | Status: 17/2000
+Iter: 1460 | Dens: 0.2524 | Best Dens: 0.2524 | Status: 1/2000
+Iter: 1480 | Dens: 0.2527 | Best Dens: 0.2527 | Status: 0/2000
+Iter: 1500 | Dens: 0.2529 | Best Dens: 0.2529 | Status: 0/2000
+Iter: 1520 | Dens: 0.2528 | Best Dens: 0.2531 | Status: 4/2000
+Iter: 1540 | Dens: 0.2533 | Best Dens: 0.2534 | Status: 1/2000
+Iter: 1560 | Dens: 0.2537 | Best Dens: 0.2537 | Status: 0/2000
+Iter: 1580 | Dens: 0.2539 | Best Dens: 0.2539 | Status: 0/2000
+Iter: 1600 | Dens: 0.2539 | Best Dens: 0.2539 | Status: 7/2000
+Iter: 1620 | Dens: 0.2539 | Best Dens: 0.2540 | Status: 13/2000
+Iter: 1640 | Dens: 0.2540 | Best Dens: 0.2540 | Status: 1/2000
+Iter: 1660 | Dens: 0.2540 | Best Dens: 0.2540 | Status: 21/2000
+Iter: 1680 | Dens: 0.2542 | Best Dens: 0.2542 | Status: 0/2000
+Iter: 1700 | Dens: 0.2541 | Best Dens: 0.2543 | Status: 1/2000
+Iter: 1720 | Dens: 0.2543 | Best Dens: 0.2544 | Status: 9/2000
+Iter: 1740 | Dens: 0.2544 | Best Dens: 0.2544 | Status: 7/2000
+Iter: 1760 | Dens: 0.2546 | Best Dens: 0.2546 | Status: 8/2000
+Iter: 1780 | Dens: 0.2548 | Best Dens: 0.2549 | Status: 4/2000
+Iter: 1800 | Dens: 0.2549 | Best Dens: 0.2550 | Status: 5/2000
+Iter: 1820 | Dens: 0.2552 | Best Dens: 0.2553 | Status: 1/2000
+Iter: 1840 | Dens: 0.2552 | Best Dens: 0.2555 | Status: 2/2000
+Iter: 1860 | Dens: 0.2555 | Best Dens: 0.2556 | Status: 1/2000
+Iter: 1880 | Dens: 0.2555 | Best Dens: 0.2556 | Status: 21/2000
+Iter: 1900 | Dens: 0.2557 | Best Dens: 0.2557 | Status: 0/2000
+Iter: 1920 | Dens: 0.2558 | Best Dens: 0.2558 | Status: 1/2000
+Iter: 1940 | Dens: 0.2558 | Best Dens: 0.2558 | Status: 21/2000
+Iter: 1960 | Dens: 0.2557 | Best Dens: 0.2558 | Status: 41/2000
+Iter: 1980 | Dens: 0.2558 | Best Dens: 0.2558 | Status: 19/2000
+Iter: 2000 | Dens: 0.2558 | Best Dens: 0.2560 | Status: 11/2000
+>> Plot M=15 exported to: .\graphsv4\Opt_Mux_15.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 58.2088 | Density: 0.2519
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 450.0000
+>> Uniformity comparison plot M=15 exported to: .\graphsv4\Uniformity_Compare_Mux_15.png
+>> Gráfico de comparación de esferas M=15 exportado a: .\graphsv4\Sphere_Compare_Mux_15.png
+-------------------- Resumen M=15 --------------------
+  Condición: Inicial: 890.79 | Optimizada: 65.43 | Uniforme: 58.2088
+  Densidad:  Inicial: 0.2303 | Optimizada: 0.2560 | Uniforme: 0.2519
+  RMSE Unif: Inicial: 450.0000 | Optimizada: 450.0197 | Uniforme: 450.0000
+
+Starting Optimization M=16 | Initial Cond: 1013.52 | Initial Density: 0.2457
+------------------------------------------------------------
+Iter: 20 | Dens: 0.2459 | Best Dens: 0.2459 | Status: 6/2000
+Iter: 40 | Dens: 0.2461 | Best Dens: 0.2461 | Status: 3/2000
+Iter: 60 | Dens: 0.2467 | Best Dens: 0.2467 | Status: 6/2000
+Iter: 80 | Dens: 0.2470 | Best Dens: 0.2471 | Status: 2/2000
+Iter: 100 | Dens: 0.2475 | Best Dens: 0.2476 | Status: 6/2000
+Iter: 120 | Dens: 0.2479 | Best Dens: 0.2479 | Status: 2/2000
+Iter: 140 | Dens: 0.2483 | Best Dens: 0.2483 | Status: 7/2000
+Iter: 160 | Dens: 0.2488 | Best Dens: 0.2488 | Status: 4/2000
+Iter: 180 | Dens: 0.2494 | Best Dens: 0.2494 | Status: 0/2000
+Iter: 200 | Dens: 0.2498 | Best Dens: 0.2498 | Status: 2/2000
+Iter: 220 | Dens: 0.2502 | Best Dens: 0.2502 | Status: 0/2000
+Iter: 240 | Dens: 0.2507 | Best Dens: 0.2507 | Status: 2/2000
+Iter: 260 | Dens: 0.2507 | Best Dens: 0.2507 | Status: 1/2000
+Iter: 280 | Dens: 0.2508 | Best Dens: 0.2509 | Status: 9/2000
+Iter: 300 | Dens: 0.2513 | Best Dens: 0.2513 | Status: 0/2000
+Iter: 320 | Dens: 0.2516 | Best Dens: 0.2516 | Status: 1/2000
+Iter: 340 | Dens: 0.2518 | Best Dens: 0.2518 | Status: 2/2000
+Iter: 360 | Dens: 0.2522 | Best Dens: 0.2523 | Status: 1/2000
+Iter: 380 | Dens: 0.2521 | Best Dens: 0.2523 | Status: 5/2000
+Iter: 400 | Dens: 0.2525 | Best Dens: 0.2526 | Status: 4/2000
+Iter: 420 | Dens: 0.2529 | Best Dens: 0.2529 | Status: 5/2000
+Iter: 440 | Dens: 0.2531 | Best Dens: 0.2531 | Status: 2/2000
+Iter: 460 | Dens: 0.2536 | Best Dens: 0.2536 | Status: 0/2000
+Iter: 480 | Dens: 0.2540 | Best Dens: 0.2540 | Status: 2/2000
+Iter: 500 | Dens: 0.2544 | Best Dens: 0.2544 | Status: 0/2000
+Iter: 520 | Dens: 0.2548 | Best Dens: 0.2548 | Status: 3/2000
+Iter: 540 | Dens: 0.2549 | Best Dens: 0.2549 | Status: 2/2000
+Iter: 560 | Dens: 0.2551 | Best Dens: 0.2551 | Status: 0/2000
+Iter: 580 | Dens: 0.2553 | Best Dens: 0.2553 | Status: 7/2000
+Iter: 600 | Dens: 0.2554 | Best Dens: 0.2554 | Status: 2/2000
+Iter: 620 | Dens: 0.2559 | Best Dens: 0.2559 | Status: 4/2000
+Iter: 640 | Dens: 0.2560 | Best Dens: 0.2560 | Status: 2/2000
+Iter: 660 | Dens: 0.2561 | Best Dens: 0.2562 | Status: 2/2000
+Iter: 680 | Dens: 0.2563 | Best Dens: 0.2563 | Status: 2/2000
+Iter: 700 | Dens: 0.2565 | Best Dens: 0.2565 | Status: 3/2000
+Iter: 720 | Dens: 0.2565 | Best Dens: 0.2566 | Status: 2/2000
+Iter: 740 | Dens: 0.2565 | Best Dens: 0.2567 | Status: 15/2000
+Iter: 760 | Dens: 0.2567 | Best Dens: 0.2568 | Status: 2/2000
+Iter: 780 | Dens: 0.2568 | Best Dens: 0.2569 | Status: 3/2000
+Iter: 800 | Dens: 0.2571 | Best Dens: 0.2572 | Status: 7/2000
+Iter: 820 | Dens: 0.2572 | Best Dens: 0.2573 | Status: 1/2000
+Iter: 840 | Dens: 0.2575 | Best Dens: 0.2575 | Status: 0/2000
+Iter: 860 | Dens: 0.2577 | Best Dens: 0.2577 | Status: 7/2000
+Iter: 880 | Dens: 0.2577 | Best Dens: 0.2578 | Status: 8/2000
+Iter: 900 | Dens: 0.2579 | Best Dens: 0.2580 | Status: 2/2000
+Iter: 920 | Dens: 0.2583 | Best Dens: 0.2584 | Status: 4/2000
+Iter: 940 | Dens: 0.2585 | Best Dens: 0.2585 | Status: 4/2000
+Iter: 960 | Dens: 0.2584 | Best Dens: 0.2586 | Status: 14/2000
+Iter: 980 | Dens: 0.2589 | Best Dens: 0.2589 | Status: 10/2000
+Iter: 1000 | Dens: 0.2589 | Best Dens: 0.2589 | Status: 4/2000
+Iter: 1020 | Dens: 0.2589 | Best Dens: 0.2590 | Status: 2/2000
+Iter: 1040 | Dens: 0.2592 | Best Dens: 0.2592 | Status: 0/2000
+Iter: 1060 | Dens: 0.2594 | Best Dens: 0.2594 | Status: 4/2000
+Iter: 1080 | Dens: 0.2593 | Best Dens: 0.2595 | Status: 5/2000
+Iter: 1100 | Dens: 0.2596 | Best Dens: 0.2597 | Status: 14/2000
+Iter: 1120 | Dens: 0.2598 | Best Dens: 0.2598 | Status: 9/2000
+Iter: 1140 | Dens: 0.2596 | Best Dens: 0.2598 | Status: 5/2000
+Iter: 1160 | Dens: 0.2599 | Best Dens: 0.2599 | Status: 7/2000
+Iter: 1180 | Dens: 0.2600 | Best Dens: 0.2600 | Status: 3/2000
+Iter: 1200 | Dens: 0.2601 | Best Dens: 0.2601 | Status: 13/2000
+Iter: 1220 | Dens: 0.2602 | Best Dens: 0.2602 | Status: 1/2000
+Iter: 1240 | Dens: 0.2604 | Best Dens: 0.2604 | Status: 2/2000
+Iter: 1260 | Dens: 0.2606 | Best Dens: 0.2606 | Status: 0/2000
+Iter: 1280 | Dens: 0.2606 | Best Dens: 0.2606 | Status: 4/2000
+Iter: 1300 | Dens: 0.2607 | Best Dens: 0.2608 | Status: 3/2000
+Iter: 1320 | Dens: 0.2610 | Best Dens: 0.2610 | Status: 0/2000
+Iter: 1340 | Dens: 0.2613 | Best Dens: 0.2613 | Status: 0/2000
+Iter: 1360 | Dens: 0.2613 | Best Dens: 0.2613 | Status: 4/2000
+Iter: 1380 | Dens: 0.2616 | Best Dens: 0.2616 | Status: 1/2000
+Iter: 1400 | Dens: 0.2617 | Best Dens: 0.2618 | Status: 2/2000
+Iter: 1420 | Dens: 0.2618 | Best Dens: 0.2619 | Status: 8/2000
+Iter: 1440 | Dens: 0.2621 | Best Dens: 0.2621 | Status: 5/2000
+Iter: 1460 | Dens: 0.2622 | Best Dens: 0.2623 | Status: 6/2000
+Iter: 1480 | Dens: 0.2624 | Best Dens: 0.2624 | Status: 2/2000
+Iter: 1500 | Dens: 0.2625 | Best Dens: 0.2625 | Status: 5/2000
+Iter: 1520 | Dens: 0.2625 | Best Dens: 0.2627 | Status: 16/2000
+Iter: 1540 | Dens: 0.2627 | Best Dens: 0.2628 | Status: 3/2000
+Iter: 1560 | Dens: 0.2628 | Best Dens: 0.2628 | Status: 15/2000
+Iter: 1580 | Dens: 0.2628 | Best Dens: 0.2629 | Status: 6/2000
+Iter: 1600 | Dens: 0.2629 | Best Dens: 0.2629 | Status: 12/2000
+Iter: 1620 | Dens: 0.2628 | Best Dens: 0.2630 | Status: 16/2000
+Iter: 1640 | Dens: 0.2631 | Best Dens: 0.2632 | Status: 10/2000
+Iter: 1660 | Dens: 0.2630 | Best Dens: 0.2632 | Status: 30/2000
+Iter: 1680 | Dens: 0.2631 | Best Dens: 0.2632 | Status: 15/2000
+Iter: 1700 | Dens: 0.2631 | Best Dens: 0.2633 | Status: 11/2000
+Iter: 1720 | Dens: 0.2634 | Best Dens: 0.2634 | Status: 9/2000
+Iter: 1740 | Dens: 0.2634 | Best Dens: 0.2634 | Status: 13/2000
+Iter: 1760 | Dens: 0.2634 | Best Dens: 0.2635 | Status: 10/2000
+Iter: 1780 | Dens: 0.2635 | Best Dens: 0.2636 | Status: 5/2000
+Iter: 1800 | Dens: 0.2635 | Best Dens: 0.2636 | Status: 25/2000
+Iter: 1820 | Dens: 0.2638 | Best Dens: 0.2638 | Status: 1/2000
+Iter: 1840 | Dens: 0.2637 | Best Dens: 0.2638 | Status: 8/2000
+Iter: 1860 | Dens: 0.2639 | Best Dens: 0.2639 | Status: 0/2000
+Iter: 1880 | Dens: 0.2638 | Best Dens: 0.2639 | Status: 8/2000
+Iter: 1900 | Dens: 0.2640 | Best Dens: 0.2640 | Status: 0/2000
+Iter: 1920 | Dens: 0.2640 | Best Dens: 0.2641 | Status: 7/2000
+Iter: 1940 | Dens: 0.2641 | Best Dens: 0.2642 | Status: 10/2000
+Iter: 1960 | Dens: 0.2639 | Best Dens: 0.2642 | Status: 12/2000
+Iter: 1980 | Dens: 0.2642 | Best Dens: 0.2642 | Status: 32/2000
+Iter: 2000 | Dens: 0.2640 | Best Dens: 0.2643 | Status: 7/2000
+>> Plot M=16 exported to: .\graphsv4\Opt_Mux_16.png
+>> Applying uniformization process to the best matrix found...
+[Warning: Uniformizer: Maximum iterations reached. Matrix may not be perfectly uniform.] 
+[> In GenCSSPv4_NF31>uniformizeMatrix (line 650)
+In GenCSSPv4_NF31 (line 257)] 
+>> Condition after uniformization: 66.3336 | Density: 0.2608
+>> Non-uniform vectors (R,C,L): 31, 31, 31 | Uniformity RMSE: 480.0000
+>> Uniformity comparison plot M=16 exported to: .\graphsv4\Uniformity_Compare_Mux_16.png
+>> Gráfico de comparación de esferas M=16 exportado a: .\graphsv4\Sphere_Compare_Mux_16.png
+-------------------- Resumen M=16 --------------------
+  Condición: Inicial: 1013.52 | Optimizada: 72.57 | Uniforme: 66.3336
+  Densidad:  Inicial: 0.2457 | Optimizada: 0.2643 | Uniforme: 0.2608
+  RMSE Unif: Inicial: 480.0000 | Optimizada: 480.0182 | Uniforme: 480.0000
+
+>> Execution summary saved to: summary_log.txt
+>> Summary plot exported to: .\graphsv4\Summary_Metrics_vs_M.png

@@ -1,0 +1,62 @@
+Execution Summary - 2026-07-20 08:21:25.963411
+
+-------------------- Summary M=2 --------------------
+  Condition: Initial: 3.22 | Optimized: 3.05 | Uniform: 4.0525
+  Density:   Initial: 0.1370 | Optimized: 0.2172 | Uniform: 0.1383
+
+-------------------- Summary M=3 --------------------
+  Condition: Initial: 4.49 | Optimized: 4.67 | Uniform: 5.4585
+  Density:   Initial: 0.1359 | Optimized: 0.2048 | Uniform: 0.1383
+
+-------------------- Summary M=4 --------------------
+  Condition: Initial: 6.26 | Optimized: 5.93 | Uniform: 6.6012
+  Density:   Initial: 0.1366 | Optimized: 0.1931 | Uniform: 0.1643
+
+-------------------- Summary M=5 --------------------
+  Condition: Initial: 8.07 | Optimized: 8.03 | Uniform: 8.4848
+  Density:   Initial: 0.1443 | Optimized: 0.1925 | Uniform: 0.1574
+
+-------------------- Summary M=6 --------------------
+  Condition: Initial: 9.41 | Optimized: 9.79 | Uniform: 9.8428
+  Density:   Initial: 0.1503 | Optimized: 0.1951 | Uniform: 0.1636
+
+-------------------- Summary M=7 --------------------
+  Condition: Initial: 11.79 | Optimized: 11.65 | Uniform: 12.1293
+  Density:   Initial: 0.1541 | Optimized: 0.1938 | Uniform: 0.1599
+
+-------------------- Summary M=8 --------------------
+  Condition: Initial: 12.59 | Optimized: 13.79 | Uniform: 13.6252
+  Density:   Initial: 0.1619 | Optimized: 0.1965 | Uniform: 0.1832
+
+-------------------- Summary M=9 --------------------
+  Condition: Initial: 14.40 | Optimized: 14.78 | Uniform: 15.5105
+  Density:   Initial: 0.1669 | Optimized: 0.2006 | Uniform: 0.1697
+
+-------------------- Summary M=10 --------------------
+  Condition: Initial: 17.06 | Optimized: 16.61 | Uniform: 17.4232
+  Density:   Initial: 0.1720 | Optimized: 0.2023 | Uniform: 0.1828
+
+-------------------- Summary M=11 --------------------
+  Condition: Initial: 19.12 | Optimized: 19.44 | Uniform: 20.2624
+  Density:   Initial: 0.1823 | Optimized: 0.2078 | Uniform: 0.1824
+
+-------------------- Summary M=12 --------------------
+  Condition: Initial: 20.30 | Optimized: 20.88 | Uniform: 21.4080
+  Density:   Initial: 0.1880 | Optimized: 0.2133 | Uniform: 0.2021
+
+-------------------- Summary M=13 --------------------
+  Condition: Initial: 23.27 | Optimized: 23.41 | Uniform: 23.7521
+  Density:   Initial: 0.1929 | Optimized: 0.2181 | Uniform: 0.1988
+
+-------------------- Summary M=14 --------------------
+  Condition: Initial: 24.44 | Optimized: 24.80 | Uniform: 26.2689
+  Density:   Initial: 0.1970 | Optimized: 0.2221 | Uniform: 0.2138
+
+-------------------- Summary M=15 --------------------
+  Condition: Initial: 27.43 | Optimized: 27.68 | Uniform: 27.8495
+  Density:   Initial: 0.2065 | Optimized: 0.2295 | Uniform: 0.2092
+
+-------------------- Summary M=16 --------------------
+  Condition: Initial: 29.41 | Optimized: 30.06 | Uniform: 30.9677
+  Density:   Initial: 0.2124 | Optimized: 0.2343 | Uniform: 0.2210
+

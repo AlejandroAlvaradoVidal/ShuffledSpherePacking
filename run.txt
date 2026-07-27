@@ -1,0 +1,3 @@
+start /min "" matlab -batch "GenCSSPv4" -logfile salida.log
+
+taskkill /F /IM matlab.exe /T

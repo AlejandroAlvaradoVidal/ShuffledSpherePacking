@@ -1,0 +1,14 @@
+matlab -nodisplay -nosplash -nodesktop -r "run('code.m')"; exit;
+
+tmux new -s sesion_matlab
+tmux attach -t sesion_matlab
+
+ctrl+b -> d
+
+matlab -batch "run('code.m')" 
+
+nohup matlab -batch "run('code.m')" > mi_salida.log 2>&1 &
+
+nohup bash -c 'echo "Iniciando monitor... PID del proceso principal: $$"; sleep 3600; matlab -batch "run('\''code.m'\'')" & echo "MATLAB ha comenzado. PID de MATLAB: $!" ; wait' > mi_salida.log 2>&1 &
+
+nohup bash -c 'echo "Iniciando monitor... PID del proceso principal: $$";  matlab -batch "run('\''code.m'\'')" & echo "MATLAB ha comenzado. PID de MATLAB: $!" ; wait' > mi_salida.log 2>&1 &

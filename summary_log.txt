@@ -1,0 +1,27 @@
+Execution Summary - 09-Jul-2026 10:52:41
+
+-------------------- Resumen M=11 --------------------
+  Condición: Inicial: 11551.06 | Optimizada: 36.54 | Uniforme: 34.3397
+  Densidad:  Inicial: 0.1689 | Optimizada: 0.2645 | Uniforme: 0.2521
+  RMSE Unif: Inicial: 330.0000 | Optimizada: 330.0341 | Uniforme: 330.0000
+
+-------------------- Resumen M=12 --------------------
+  Condición: Inicial: 13185.40 | Optimizada: 45.15 | Uniforme: 40.8554
+  Densidad:  Inicial: 0.1843 | Optimizada: 0.2630 | Uniforme: 0.2510
+  RMSE Unif: Inicial: 360.0000 | Optimizada: 360.0257 | Uniforme: 360.0001
+
+-------------------- Resumen M=13 --------------------
+  Condición: Inicial: 14520.24 | Optimizada: 40.33 | Uniforme: 39.8697
+  Densidad:  Inicial: 0.1996 | Optimizada: 0.2566 | Uniforme: 0.2464
+  RMSE Unif: Inicial: 390.0000 | Optimizada: 390.0369 | Uniforme: 390.0001
+
+-------------------- Resumen M=14 --------------------
+  Condición: Inicial: 15435.85 | Optimizada: 46.62 | Uniforme: 44.3560
+  Densidad:  Inicial: 0.2150 | Optimizada: 0.2577 | Uniforme: 0.2511
+  RMSE Unif: Inicial: 420.0000 | Optimizada: 420.0218 | Uniforme: 420.0001
+
+-------------------- Resumen M=15 --------------------
+  Condición: Inicial: 890.79 | Optimizada: 55.06 | Uniforme: 52.9135
+  Densidad:  Inicial: 0.2303 | Optimizada: 0.2639 | Uniforme: 0.2578
+  RMSE Unif: Inicial: 450.0000 | Optimizada: 450.0359 | Uniforme: 450.0000
+
